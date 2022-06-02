@@ -1,0 +1,1528 @@
+host_hostname,disk_bytes_read,disk_bytes_written,elapsed_time,name,path,start_time
+NANO0102.NANO0102,-1 bytes,-1 bytes,0,[System Process],,1969-12-31 23:59:59
+NANO0102.NANO0102,9 GB,5.99 GB,41,System,,2021-10-28 12:26:25
+NANO0102.NANO0102,33.61 KB,20 bytes,41,smss.exe,C:\Windows\System32\smss.exe,2021-10-28 12:26:25
+NANO0102.NANO0102,8.32 MB,0 bytes,41,csrss.exe,C:\Windows\System32\csrss.exe,2021-10-28 12:26:29
+NANO0102.NANO0102,249.98 KB,0 bytes,41,wininit.exe,C:\Windows\System32\wininit.exe,2021-10-28 12:26:29
+NANO0102.NANO0102,4.15 MB,0 bytes,41,csrss.exe,C:\Windows\System32\csrss.exe,2021-10-28 12:26:29
+NANO0102.NANO0102,881.02 KB,1.44 KB,41,winlogon.exe,C:\Windows\System32\winlogon.exe,2021-10-28 12:26:30
+NANO0102.NANO0102,68.04 MB,54.27 MB,41,services.exe,C:\Windows\System32\services.exe,2021-10-28 12:26:30
+NANO0102.NANO0102,43.76 MB,100.45 MB,41,lsass.exe,C:\Windows\System32\lsass.exe,2021-10-28 12:26:30
+NANO0102.NANO0102,343.61 KB,0 bytes,41,lsm.exe,C:\Windows\System32\lsm.exe,2021-10-28 12:26:30
+NANO0102.NANO0102,104.34 MB,16.69 KB,41,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-28 12:26:33
+NANO0102.NANO0102,0 bytes,0 bytes,41,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-28 12:26:34
+NANO0102.NANO0102,5.82 GB,83.17 MB,41,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-28 12:26:34
+NANO0102.NANO0102,504.97 MB,2.73 GB,41,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-28 12:26:34
+NANO0102.NANO0102,328.86 KB,3.17 KB,41,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-28 12:26:34
+NANO0102.NANO0102,26.07 GB,8.7 GB,41,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-28 12:26:34
+NANO0102.NANO0102,98.28 MB,56.99 MB,41,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-28 12:26:39
+NANO0102.NANO0102,561.46 KB,320 bytes,41,spoolsv.exe,C:\Windows\System32\spoolsv.exe,2021-10-28 12:26:41
+NANO0102.NANO0102,434.31 KB,185.65 MB,41,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-28 12:26:41
+NANO0102.NANO0102,5.02 MB,1.65 MB,41,officeclicktorun.exe,C:\Program Files\Microsoft Office 15\ClientX64\officeclicktorun.exe,2021-10-28 12:26:42
+NANO0102.NANO0102,1.32 GB,57.67 KB,41,CSFalconService.exe,C:\Program Files\CrowdStrike\CSFalconService.exe,2021-10-28 12:26:46
+NANO0102.NANO0102,4.35 MB,1.56 KB,41,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-28 12:26:47
+NANO0102.NANO0102,735.55 KB,1.46 KB,41,HeciServer.exe,C:\Program Files\Intel\iCLS Client\HeciServer.exe,2021-10-28 12:26:47
+NANO0102.NANO0102,22.14 MB,9.68 MB,41,CSFalconContainer.exe,C:\Program Files\CrowdStrike\CSFalconContainer.exe,2021-10-28 12:26:48
+NANO0102.NANO0102,47.28 GB,10.52 GB,41,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\12.1.7061.6600.105\Bin\ccSvcHst.exe,2021-10-28 12:26:48
+NANO0102.NANO0102,8.98 MB,8.48 MB,41,miragent.exe,C:\Program Files (x86)\MANDIANT\MANDIANT Intelligent Response Agent\miragent.exe,2021-10-28 12:26:52
+NANO0102.NANO0102,22.1 MB,346.32 KB,41,CSFalconContainer.exe,C:\Program Files\CrowdStrike\CSFalconContainer.exe,2021-10-28 12:26:56
+NANO0102.NANO0102,529 bytes,0 bytes,41,unsecapp.exe,C:\Windows\System32\wbem\unsecapp.exe,2021-10-28 12:28:10
+NANO0102.NANO0102,622.65 MB,250.81 MB,41,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-10-28 12:28:10
+NANO0102.NANO0102,0 bytes,0 bytes,41,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-28 12:28:11
+NANO0102.NANO0102,512.15 MB,273.83 MB,41,CcmExec.exe,C:\Windows\CCM\CcmExec.exe,2021-10-28 12:30:07
+NANO0102.NANO0102,39.45 KB,5.45 KB,41,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-10-28 12:30:08
+NANO0102.NANO0102,8.43 MB,276.18 MB,41,IAStorDataMgrSvc.exe,C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorDataMgrSvc.exe,2021-10-28 12:30:11
+NANO0102.NANO0102,21.11 KB,0 bytes,41,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-28 12:30:13
+NANO0102.NANO0102,169.43 KB,0 bytes,41,jhi_service.exe,C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL\jhi_service.exe,2021-10-28 12:30:15
+NANO0102.NANO0102,390.65 KB,16 bytes,41,LMS.exe,C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\LMS\LMS.exe,2021-10-28 12:30:15
+NANO0102.NANO0102,14.05 MB,753.68 KB,41,SearchIndexer.exe,C:\Windows\System32\SearchIndexer.exe,2021-10-28 12:30:21
+NANO0102.NANO0102,51.23 KB,0 bytes,41,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-10-28 12:30:29
+NANO0102.NANO0102,2.22 MB,4.29 MB,23,taskhost.exe,C:\Windows\System32\taskhost.exe,2021-11-15 17:16:29
+NANO0102.NANO0102,581.19 KB,0 bytes,23,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\12.1.7061.6600.105\Bin\ccSvcHst.exe,2021-11-15 17:16:29
+NANO0102.NANO0102,60 bytes,0 bytes,23,dwm.exe,C:\Windows\System32\dwm.exe,2021-11-15 17:16:51
+NANO0102.NANO0102,240.07 MB,336.59 KB,23,explorer.exe,C:\Windows\explorer.exe,2021-11-15 17:16:51
+NANO0102.NANO0102,1.38 MB,2.49 MB,23,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-11-15 17:16:52
+NANO0102.NANO0102,172.76 KB,0 bytes,23,igfxtray.exe,C:\Windows\System32\igfxtray.exe,2021-11-15 17:16:56
+NANO0102.NANO0102,400.6 KB,0 bytes,23,hkcmd.exe,C:\Windows\System32\hkcmd.exe,2021-11-15 17:16:56
+NANO0102.NANO0102,443.19 KB,0 bytes,23,igfxpers.exe,C:\Windows\System32\igfxpers.exe,2021-11-15 17:16:56
+NANO0102.NANO0102,13.66 MB,0 bytes,23,RAVCpl64.exe,C:\Program Files\Realtek\Audio\HDA\RAVCpl64.exe,2021-11-15 17:16:57
+NANO0102.NANO0102,170.38 KB,20 bytes,23,ICCProxy.exe,C:\Program Files (x86)\Intel\Intel(R) Integrated Clock Controller Service\ICCProxy.exe,2021-11-15 17:16:57
+NANO0102.NANO0102,872.31 KB,0 bytes,23,TWCU.exe,C:\Program Files (x86)\TP-LINK\TP-LINK Wireless Configuration Utility\TWCU.exe,2021-11-15 17:16:59
+NANO0102.NANO0102,305.15 KB,0 bytes,23,concentr.exe,C:\Program Files (x86)\Citrix\ICA Client\concentr.exe,2021-11-15 17:17:00
+NANO0102.NANO0102,17.35 KB,0 bytes,23,wfcrun32.exe,C:\Program Files (x86)\Citrix\ICA Client\wfcrun32.exe,2021-11-15 17:17:00
+NANO0102.NANO0102,201.56 KB,863.48 KB,23,SCNotification.exe,C:\Windows\CCM\SCNotification.exe,2021-11-15 17:17:02
+NANO0102.NANO0102,550.95 KB,812 bytes,23,IAStorIcon.exe,C:\Program Files\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe,2021-11-15 17:17:56
+NANO0102.NANO0102,32.16 MB,3.88 GB,23,orbit.exe,C:\Program Files\Orbit\bin\orbit\orbit.exe,2021-11-15 17:19:24
+NANO0102.NANO0102,20.65 MB,4 bytes,23,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-11-15 17:19:27
+NANO0102.NANO0102,358.88 KB,0 bytes,23,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-15 17:19:30
+NANO0102.NANO0102,1.47 GB,66.59 MB,23,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-11-15 17:19:30
+NANO0102.NANO0102,1.18 MB,595.11 KB,20,taskhost.exe,C:\Windows\System32\taskhost.exe,2021-11-18 21:28:22
+NANO0102.NANO0102,120.49 KB,0 bytes,9,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-29 20:06:03
+NANO0102.NANO0102,505.38 KB,160 bytes,9,winlogon.exe,C:\Windows\System32\winlogon.exe,2021-11-29 20:06:03
+NANO0102.NANO0102,196.47 KB,320 bytes,9,LogonUI.exe,C:\Windows\System32\LogonUI.exe,2021-11-29 20:06:04
+NANO0102.NANO0102,85.28 KB,20.87 MB,9,rdpclip.exe,C:\Windows\System32\rdpclip.exe,2021-11-29 20:06:05
+NANO0102.NANO0102,196.19 MB,54.96 MB,2,Spotfire.Dxp.exe,C:\Program Files (x86)\TIBCO\Spotfire\5.5.0\Spotfire.Dxp.exe,2021-12-07 00:12:36
+NANO0102.NANO0102,865.29 KB,421.92 KB,2,Spotfire.Dxp.Cef.SubProcess.exe,C:\Users\Sandisk\AppData\Local\TIBCO\Spotfire\5.5.0\Modules\Spotfire Web Browser_23.28.9701.4854\Spotfire.Dxp.Cef.SubProcess.exe,2021-12-07 00:12:40
+NANO0102.NANO0102,2.23 MB,11.78 MB,2,Spotfire.Dxp.Cef.SubProcess.exe,C:\Users\Sandisk\AppData\Local\TIBCO\Spotfire\5.5.0\Modules\Spotfire Web Browser_23.28.9701.4854\Spotfire.Dxp.Cef.SubProcess.exe,2021-12-07 00:14:02
+STBOXX203,-1 bytes,-1 bytes,0,[System Process],,1969-12-31 23:59:59
+STBOXX203,56.23 MB,46.28 GB,29,System,,2021-11-10 01:40:57
+STBOXX203,16.38 KB,2.23 GB,29,Registry,Registry,2021-11-10 01:40:28
+STBOXX203,16.8 KB,77.76 KB,29,smss.exe,C:\Windows\System32\smss.exe,2021-11-10 01:40:57
+STBOXX203,1.57 MB,0 bytes,29,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-10 01:41:04
+STBOXX203,9.73 KB,0 bytes,29,wininit.exe,C:\Windows\System32\wininit.exe,2021-11-10 01:41:05
+STBOXX203,7.79 MB,0 bytes,29,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-10 01:41:05
+STBOXX203,439.36 KB,640 bytes,29,winlogon.exe,C:\Windows\System32\winlogon.exe,2021-11-10 01:41:05
+STBOXX203,11.6 KB,242.22 KB,29,services.exe,C:\Windows\System32\services.exe,2021-11-10 01:41:05
+STBOXX203,2.5 MB,3.86 MB,29,lsass.exe,C:\Windows\System32\lsass.exe,2021-11-10 01:41:05
+STBOXX203,62.51 MB,1.08 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,0 bytes,0 bytes,29,fontdrvhost.exe,C:\Windows\System32\fontdrvhost.exe,2021-11-10 01:41:06
+STBOXX203,0 bytes,0 bytes,29,fontdrvhost.exe,C:\Windows\System32\fontdrvhost.exe,2021-11-10 01:41:06
+STBOXX203,1.45 MB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,2.02 KB,1.26 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,71.13 KB,0 bytes,29,dwm.exe,C:\Windows\System32\dwm.exe,2021-11-10 01:41:06
+STBOXX203,967.6 KB,1.29 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,4.56 GB,5.82 GB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,3.67 MB,122.16 KB,29,NVDisplay.Container.exe,C:\Windows\System32\DriverStore\FileRepository\nvdw.inf_amd64_f07a3f2244a9e817\Display.NvContainer\NVDisplay.Container.exe,2021-11-10 01:41:06
+STBOXX203,1.04 KB,1.44 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,6 bytes,321.48 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,8.19 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,54.7 MB,251.29 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,714 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,18.82 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,0 bytes,3.67 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,0 bytes,0 bytes,29,Memory Compression,MemCompression,2021-11-10 01:41:06
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,70 bytes,14 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,824 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,3.61 MB,6.8 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,129.17 KB,160 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:06
+STBOXX203,0 bytes,0 bytes,29,RtkAudioService64.exe,C:\Program Files\Realtek\Audio\HDA\RtkAudioService64.exe,2021-11-10 01:41:07
+STBOXX203,429.71 MB,3.03 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,0 bytes,0 bytes,29,RAVBg64.exe,C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe,2021-11-10 01:41:07
+STBOXX203,0 bytes,0 bytes,29,RAVBg64.exe,C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe,2021-11-10 01:41:07
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,1.01 MB,86.89 KB,29,spoolsv.exe,C:\Windows\System32\spoolsv.exe,2021-11-10 01:41:07
+STBOXX203,116 bytes,2.65 GB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,5.33 MB,8.57 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,290.96 MB,166.15 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,221.91 MB,205.11 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,337.46 MB,1.87 GB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,1.82 GB,76.96 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,22.53 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,4.13 MB,2.23 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,956.66 KB,2.12 MB,29,ExpressConnectNetworkService.exe,C:\Program Files\ExpressConnect\ExpressConnectNetworkService.exe,2021-11-10 01:41:07
+STBOXX203,2.54 TB,708.8 MB,29,ExpressConnectAnalyticsService.exe,C:\Program Files\ExpressConnect\ExpressConnectAnalyticsService.exe,2021-11-10 01:41:07
+STBOXX203,226.59 GB,25.54 GB,29,MsMpEng.exe,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2110.6-0\MsMpEng.exe,2021-11-10 01:41:07
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,1.63 MB,1.18 MB,29,nvWmi64.exe,C:\Windows\System32\DriverStore\FileRepository\nvdw.inf_amd64_f07a3f2244a9e817\NVWMI\nvWmi64.exe,2021-11-10 01:41:07
+STBOXX203,16.65 KB,80 bytes,29,CSFalconService.exe,C:\Program Files\CrowdStrike\CSFalconService.exe,2021-11-10 01:41:07
+STBOXX203,0 bytes,480 bytes,29,WavesSysSvc64.exe,C:\Program Files\Waves\MaxxAudio\WavesSysSvc64.exe,2021-11-10 01:41:07
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,20.67 MB,4.75 GB,29,orbit.exe,C:\Program Files\Orbit\bin\orbit\orbit.exe,2021-11-10 01:41:07
+STBOXX203,116 bytes,160 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,51.28 MB,0 bytes,29,ECDBWMService.exe,C:\Program Files\ExpressConnect\ECDBWMService.exe,2021-11-10 01:41:07
+STBOXX203,232 bytes,320 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,445.52 KB,1.07 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:07
+STBOXX203,316.66 MB,0 bytes,29,ExpressConnectService.exe,C:\Program Files\ExpressConnect\ExpressConnectService.exe,2021-11-10 01:41:07
+STBOXX203,0 bytes,0 bytes,29,jhi_service.exe,C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_ffc75848a6342fdf\jhi_service.exe,2021-11-10 01:41:07
+STBOXX203,80 bytes,16.65 KB,29,CSFalconContainer.exe,C:\Program Files\CrowdStrike\CSFalconContainer.exe,2021-11-10 01:41:08
+STBOXX203,262.15 KB,57.35 KB,29,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-11-10 01:41:08
+STBOXX203,0 bytes,0 bytes,29,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-10 01:41:08
+STBOXX203,805.06 KB,80.9 MB,29,ECDBWM.exe,C:\Program Files\ExpressConnect\ECDBWM.exe,2021-11-10 01:41:08
+STBOXX203,20.97 MB,629.66 MB,29,ExpressConnect.exe,C:\Program Files\ExpressConnect\ExpressConnect.exe,2021-11-10 01:41:08
+STBOXX203,0 bytes,0 bytes,29,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-10 01:41:08
+STBOXX203,0 bytes,0 bytes,29,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-10 01:41:08
+STBOXX203,1.68 GB,36.55 MB,29,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-11-10 01:41:09
+STBOXX203,0 bytes,0 bytes,29,unsecapp.exe,C:\Windows\System32\wbem\unsecapp.exe,2021-11-10 01:41:09
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:09
+STBOXX203,2.44 GB,721.57 KB,29,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-11-10 01:41:09
+STBOXX203,1.63 MB,23.11 MB,29,dllhost.exe,C:\Windows\System32\dllhost.exe,2021-11-10 01:41:18
+STBOXX203,752 bytes,566 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:20
+STBOXX203,2.69 MB,2.31 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:24
+STBOXX203,289.34 MB,63.01 MB,29,NVDisplay.Container.exe,C:\Windows\System32\DriverStore\FileRepository\nvdw.inf_amd64_f07a3f2244a9e817\Display.NvContainer\NVDisplay.Container.exe,2021-11-10 01:41:52
+STBOXX203,9.21 MB,0 bytes,29,sihost.exe,C:\Windows\System32\sihost.exe,2021-11-10 01:42:15
+STBOXX203,894.94 KB,8.93 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:42:15
+STBOXX203,993.39 KB,12.43 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:42:15
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:42:15
+STBOXX203,4.32 KB,3.67 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:42:15
+STBOXX203,701.74 MB,2.13 MB,29,explorer.exe,C:\Windows\explorer.exe,2021-11-10 01:42:15
+STBOXX203,5.39 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:42:15
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:42:15
+STBOXX203,1.78 MB,97.18 MB,29,taskhostw.exe,C:\Windows\System32\taskhostw.exe,2021-11-10 01:42:15
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:42:19
+STBOXX203,11.05 KB,0 bytes,29,ApplicationFrameHost.exe,C:\Windows\System32\ApplicationFrameHost.exe,2021-11-10 01:42:19
+STBOXX203,810.1 KB,145.58 KB,29,StartMenuExperienceHost.exe,C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe,2021-11-10 01:42:21
+STBOXX203,54.14 KB,160 bytes,29,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 01:42:21
+STBOXX203,624.96 MB,278.15 MB,29,SearchApp.exe,C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe,2021-11-10 01:42:21
+STBOXX203,10.44 MB,480 bytes,29,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 01:42:21
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:42:21
+STBOXX203,8.2 KB,0 bytes,29,LockApp.exe,C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe,2021-11-10 01:42:22
+STBOXX203,85.68 KB,248 bytes,29,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 01:42:22
+STBOXX203,38.3 KB,0 bytes,29,ShellExperienceHost.exe,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe,2021-11-10 01:42:22
+STBOXX203,522 bytes,0 bytes,29,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 01:42:22
+STBOXX203,0 bytes,0 bytes,29,SecurityHealthSystray.exe,C:\Windows\System32\SecurityHealthSystray.exe,2021-11-10 01:42:32
+STBOXX203,0 bytes,4.1 KB,29,SecurityHealthService.exe,C:\Windows\System32\SecurityHealthService.exe,2021-11-10 01:42:32
+STBOXX203,0 bytes,0 bytes,29,RtkNGUI64.exe,C:\Program Files\Realtek\Audio\HDA\RtkNGUI64.exe,2021-11-10 01:42:32
+STBOXX203,0 bytes,0 bytes,29,RAVBg64.exe,C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe,2021-11-10 01:42:33
+STBOXX203,36.16 MB,57.76 KB,29,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 01:42:33
+STBOXX203,0 bytes,0 bytes,29,WavesSvc64.exe,C:\Program Files\Waves\MaxxAudio\WavesSvc64.exe,2021-11-10 01:42:33
+STBOXX203,20.48 KB,73.73 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:42:40
+STBOXX203,15.9 MB,288.26 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:42:46
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:43:06
+STBOXX203,13.89 MB,651.27 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:43:07
+STBOXX203,2.79 MB,154.24 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:43:09
+STBOXX203,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:43:09
+STBOXX203,812 bytes,1.12 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:43:09
+STBOXX203,152.81 MB,11.36 MB,29,Dell.D3.WinSvc.exe,C:\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.WinSvc.exe,2021-11-10 01:43:10
+STBOXX203,1.38 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:43:13
+STBOXX203,13.22 MB,271.67 KB,29,DellOptimizer.exe,C:\Program Files\Dell\DellOptimizer\DellOptimizer.exe,2021-11-10 01:43:13
+STBOXX203,116 bytes,1.27 MB,29,msdtc.exe,C:\Windows\System32\msdtc.exe,2021-11-10 01:43:19
+STBOXX203,2.61 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:43:19
+STBOXX203,187 bytes,37.46 KB,29,LMS.exe,C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\LMS\LMS.exe,2021-11-10 01:43:20
+STBOXX203,80.48 KB,0 bytes,29,SgrmBroker.exe,C:\Windows\System32\SgrmBroker.exe,2021-11-10 01:43:20
+STBOXX203,687.74 KB,714.11 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:43:21
+STBOXX203,116 bytes,160 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:43:21
+STBOXX203,1.85 MB,163.84 KB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 09:41:07
+STBOXX203,102.8 KB,0 bytes,28,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-10 21:45:13
+STBOXX203,9.73 KB,0 bytes,28,winlogon.exe,C:\Windows\System32\winlogon.exe,2021-11-10 21:45:13
+STBOXX203,0 bytes,0 bytes,28,fontdrvhost.exe,C:\Windows\System32\fontdrvhost.exe,2021-11-10 21:45:13
+STBOXX203,71 KB,0 bytes,28,dwm.exe,C:\Windows\System32\dwm.exe,2021-11-10 21:45:13
+STBOXX203,6.55 MB,991.47 KB,28,LogonUI.exe,C:\Windows\System32\LogonUI.exe,2021-11-10 21:45:13
+STBOXX203,328.75 MB,120.97 MB,28,NVDisplay.Container.exe,C:\Windows\System32\DriverStore\FileRepository\nvdw.inf_amd64_f07a3f2244a9e817\Display.NvContainer\NVDisplay.Container.exe,2021-11-10 21:45:13
+STBOXX203,21.96 KB,4.74 KB,28,rdpclip.exe,C:\Windows\System32\rdpclip.exe,2021-11-10 21:45:13
+STBOXX203,6.75 KB,2.17 MB,28,nvWmi64.exe,C:\Windows\System32\DriverStore\FileRepository\nvdw.inf_amd64_f07a3f2244a9e817\NVWMI\nvWmi64.exe,2021-11-10 21:45:14
+STBOXX203,32.38 KB,0 bytes,28,ctfmon.exe,C:\Windows\System32\ctfmon.exe,2021-11-10 21:45:16
+STBOXX203,8.2 KB,0 bytes,28,TextInputHost.exe,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInputHost.exe,2021-11-10 21:45:17
+STBOXX203,12.57 MB,2.5 MB,28,dllhost.exe,C:\Windows\System32\dllhost.exe,2021-11-10 22:33:29
+STBOXX203,8.42 GB,99.26 MB,27,MoUsoCoreWorker.exe,C:\Windows\System32\MoUsoCoreWorker.exe,2021-11-11 13:41:08
+STBOXX203,1.26 MB,22.07 KB,26,TelemetryUtility.exe,C:\Program Files\Dell\SARemediation\audit\TelemetryUtility.exe,2021-11-13 01:43:14
+STBOXX203,68.21 MB,15.47 MB,19,Microsoft.Photos.exe,C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2021.21090.10008.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe,2021-11-20 01:01:17
+STBOXX203,336.51 KB,248 bytes,19,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-20 01:01:17
+STBOXX203,2.47 GB,30.84 MB,17,SupportAssistAgent.exe,C:\Program Files\Dell\SupportAssistAgent\bin\SupportAssistAgent.exe,2021-11-21 19:49:02
+STBOXX203,114.27 MB,4.47 MB,17,ServiceShell.exe,C:\Program Files (x86)\Dell\UpdateService\ServiceShell.exe,2021-11-21 19:49:03
+STBOXX203,117.11 MB,18.79 KB,17,DDVRulesProcessor.exe,C:\Program Files\Dell\DellDataVault\DDVRulesProcessor.exe,2021-11-21 19:49:32
+STBOXX203,55.22 GB,147.44 MB,17,DDVDataCollector.exe,C:\Program Files\Dell\DellDataVault\DDVDataCollector.exe,2021-11-21 19:49:32
+STBOXX203,45 bytes,1.31 KB,17,DDVCollectorSvcApi.exe,C:\Program Files\Dell\DellDataVault\DDVCollectorSvcApi.exe,2021-11-21 19:49:32
+STBOXX203,266.23 GB,198.76 MB,17,Dsapi.exe,C:\Program Files\Dell\SupportAssistAgent\PCD\SupportAssist\Dsapi.exe,2021-11-21 19:49:36
+STBOXX203,0 bytes,0 bytes,15,UserOOBEBroker.exe,C:\Windows\System32\oobe\UserOOBEBroker.exe,2021-11-23 21:14:03
+STBOXX203,36.85 KB,140 bytes,15,LogonUI.exe,C:\Windows\System32\LogonUI.exe,2021-11-23 23:55:57
+STBOXX203,0 bytes,0 bytes,15,NisSrv.exe,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2110.6-0\NisSrv.exe,2021-11-24 01:51:43
+STBOXX203,161.58 MB,118.09 MB,5,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-12-03 14:18:41
+STBOXX203,4.97 KB,120 bytes,5,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-12-03 14:18:41
+STBOXX203,24.28 MB,54.16 MB,5,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-12-03 14:18:42
+STBOXX203,27.15 MB,49.18 MB,5,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-12-03 14:18:42
+STBOXX203,24.28 MB,45.25 MB,5,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-12-03 14:18:42
+STBOXX203,9.29 KB,8 bytes,4,YourPhone.exe,C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21111.120.0_x64__8wekyb3d8bbwe\YourPhone.exe,2021-12-04 17:24:34
+STBOXX203,0 bytes,0 bytes,3,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-12-05 09:24:35
+STBOXX203,10.65 MB,7.26 MB,2,OneDrive.exe,C:\Users\Sandisk\AppData\Local\Microsoft\OneDrive\OneDrive.exe,2021-12-06 21:00:05
+STBOXX203,212.87 MB,1.05 GB,0,svchost.exe,C:\Windows\System32\svchost.exe,2021-12-08 14:49:01
+STBOXX203,41.78 MB,18.33 MB,0,OfficeClickToRun.exe,C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe,2021-12-08 14:52:36
+STBOXX203,833 bytes,870 bytes,0,AppVShNotify.exe,C:\Program Files\Common Files\microsoft shared\ClickToRun\AppVShNotify.exe,2021-12-08 14:52:49
+STBOXX203,9.77 MB,135.41 KB,0,SearchIndexer.exe,C:\Windows\System32\SearchIndexer.exe,2021-12-08 14:53:24
+STBOXX203,0 bytes,0 bytes,0,taskhostw.exe,C:\Windows\System32\taskhostw.exe,2021-12-08 17:41:18
+STBOXX203,0 bytes,0 bytes,0,svchost.exe,C:\Windows\System32\svchost.exe,2021-12-08 17:50:56
+STBOXX203,1.26 MB,1.03 KB,0,svchost.exe,C:\Windows\System32\svchost.exe,2021-12-08 17:50:56
+DESKTOP-RSMPLND,-1 bytes,-1 bytes,0,[System Process],,1969-12-31 23:59:59
+DESKTOP-RSMPLND,772.59 MB,12.02 GB,29,System,,2021-11-10 02:22:56
+DESKTOP-RSMPLND,2.05 KB,1.97 GB,29,Registry,Registry,2021-11-10 02:22:53
+DESKTOP-RSMPLND,33.91 KB,25.34 KB,29,smss.exe,C:\Windows\System32\smss.exe,2021-11-10 02:22:56
+DESKTOP-RSMPLND,2.56 MB,0 bytes,29,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-10 02:23:01
+DESKTOP-RSMPLND,247.24 KB,0 bytes,29,wininit.exe,C:\Windows\System32\wininit.exe,2021-11-10 02:23:02
+DESKTOP-RSMPLND,133.27 MB,124.99 KB,29,services.exe,C:\Windows\System32\services.exe,2021-11-10 02:23:02
+DESKTOP-RSMPLND,3.38 MB,5.79 MB,29,lsass.exe,C:\Windows\System32\lsass.exe,2021-11-10 02:23:02
+DESKTOP-RSMPLND,643.91 MB,2.7 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:03
+DESKTOP-RSMPLND,569 bytes,0 bytes,29,fontdrvhost.exe,C:\Windows\System32\fontdrvhost.exe,2021-11-10 02:23:03
+DESKTOP-RSMPLND,114.69 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:03
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:03
+DESKTOP-RSMPLND,921.32 MB,33.33 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:03
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,724 bytes,0 bytes,29,IntelCpHDCPSvc.exe,C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a086f01cc7be643a\IntelCpHDCPSvc.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,1.56 GB,2.66 GB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,860 bytes,140 bytes,29,IntelCpHeciSvc.exe,C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a086f01cc7be643a\IntelCpHeciSvc.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,1.02 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,53.45 MB,205.36 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,714 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,66.8 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,1.04 KB,1.44 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,Memory Compression,MemCompression,2021-11-10 02:23:04
+DESKTOP-RSMPLND,105.06 KB,0 bytes,29,igfxCUIService.exe,C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_b8e01d9e8716d2a7\igfxCUIService.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,92.1 MB,449.57 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,230 bytes,46 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,975.49 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,46.1 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,2.47 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,8.12 MB,23.34 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,281.71 KB,42.37 KB,29,spoolsv.exe,C:\Windows\System32\spoolsv.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,1.44 GB,1.67 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,166.99 KB,160 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,117.18 KB,32.93 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:04
+DESKTOP-RSMPLND,178.48 MB,83.95 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:05
+DESKTOP-RSMPLND,4.96 GB,1.23 GB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:05
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:05
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:05
+DESKTOP-RSMPLND,195.93 MB,345.7 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:05
+DESKTOP-RSMPLND,328.12 MB,2.56 GB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:05
+DESKTOP-RSMPLND,28.16 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:05
+DESKTOP-RSMPLND,1.08 MB,2.06 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:05
+DESKTOP-RSMPLND,201.2 KB,14.05 KB,29,OneApp.IGCC.WinService.exe,C:\Windows\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_54b736e5be5b50b2\OneApp.IGCC.WinService.exe,2021-11-10 02:23:05
+DESKTOP-RSMPLND,118.47 KB,7.77 KB,29,SISIPSService.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.0.3752.1000.105\SAEP\IPS\bin\SISIPSService.exe,2021-11-10 02:23:05
+DESKTOP-RSMPLND,392.4 GB,13.06 GB,29,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.0.3752.1000.105\Bin\ccSvcHst.exe,2021-11-10 02:23:05
+DESKTOP-RSMPLND,149.99 KB,297 bytes,29,sisipsutil.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.0.3752.1000.105\SAEP\IPS\bin\sisipsutil.exe,2021-11-10 02:23:05
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:05
+DESKTOP-RSMPLND,872.23 KB,139.09 KB,29,SISIDSService.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.0.3752.1000.105\SAEP\IDS\bin\SISIDSService.exe,2021-11-10 02:23:05
+DESKTOP-RSMPLND,21.48 MB,22.63 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:05
+DESKTOP-RSMPLND,116 bytes,160 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:05
+DESKTOP-RSMPLND,3.6 KB,4.96 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:05
+DESKTOP-RSMPLND,609 bytes,0 bytes,29,jhi_service.exe,C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_ffc75848a6342fdf\jhi_service.exe,2021-11-10 02:23:05
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:07
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:08
+DESKTOP-RSMPLND,294.99 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:13
+DESKTOP-RSMPLND,508.79 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:16
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:23:24
+DESKTOP-RSMPLND,4.33 KB,6.38 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:25:06
+DESKTOP-RSMPLND,1.19 GB,729.14 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:25:06
+DESKTOP-RSMPLND,2.05 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:25:06
+DESKTOP-RSMPLND,81.05 KB,0 bytes,29,SgrmBroker.exe,C:\Windows\System32\SgrmBroker.exe,2021-11-10 02:25:07
+DESKTOP-RSMPLND,3.49 MB,329.73 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:25:07
+DESKTOP-RSMPLND,101.68 KB,4.64 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:25:07
+DESKTOP-RSMPLND,136.65 MB,564.36 MB,29,SearchIndexer.exe,C:\Windows\System32\SearchIndexer.exe,2021-11-10 02:25:08
+DESKTOP-RSMPLND,660.38 KB,2.88 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:29:04
+DESKTOP-RSMPLND,5.13 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:29:17
+DESKTOP-RSMPLND,7.56 MB,0 bytes,29,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-10 02:43:00
+DESKTOP-RSMPLND,2.58 MB,233.61 KB,29,winlogon.exe,C:\Windows\System32\winlogon.exe,2021-11-10 02:43:00
+DESKTOP-RSMPLND,2.84 KB,0 bytes,29,fontdrvhost.exe,C:\Windows\System32\fontdrvhost.exe,2021-11-10 02:43:00
+DESKTOP-RSMPLND,92.18 KB,0 bytes,29,dwm.exe,C:\Windows\System32\dwm.exe,2021-11-10 02:43:00
+DESKTOP-RSMPLND,15.63 MB,16 bytes,29,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.0.3752.1000.105\Bin\ccSvcHst.exe,2021-11-10 02:43:01
+DESKTOP-RSMPLND,12.02 MB,3.56 MB,29,sihost.exe,C:\Windows\System32\sihost.exe,2021-11-10 02:43:01
+DESKTOP-RSMPLND,2.57 MB,30.24 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:43:01
+DESKTOP-RSMPLND,1.53 MB,20.06 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:43:01
+DESKTOP-RSMPLND,3.09 MB,443.93 MB,29,taskhostw.exe,C:\Windows\System32\taskhostw.exe,2021-11-10 02:43:01
+DESKTOP-RSMPLND,434.18 KB,0 bytes,29,PresentationFontCache.exe,C:\Windows\Microsoft.NET\Framework64\v3.0\WPF\PresentationFontCache.exe,2021-11-10 02:43:01
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:43:01
+DESKTOP-RSMPLND,2.94 GB,386.46 MB,29,explorer.exe,C:\Windows\explorer.exe,2021-11-10 02:43:01
+DESKTOP-RSMPLND,115.04 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:43:01
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:43:04
+DESKTOP-RSMPLND,891.75 KB,160 bytes,29,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 02:43:05
+DESKTOP-RSMPLND,617.78 MB,273.71 MB,29,SearchApp.exe,C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe,2021-11-10 02:43:05
+DESKTOP-RSMPLND,600.15 MB,58.5 KB,29,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 02:43:05
+DESKTOP-RSMPLND,274.48 MB,58.24 KB,29,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 02:43:06
+DESKTOP-RSMPLND,5.42 KB,0 bytes,29,SecurityHealthSystray.exe,C:\Windows\System32\SecurityHealthSystray.exe,2021-11-10 02:43:15
+DESKTOP-RSMPLND,7.69 KB,4.1 KB,29,SecurityHealthService.exe,C:\Windows\System32\SecurityHealthService.exe,2021-11-10 02:43:16
+DESKTOP-RSMPLND,25.41 KB,0 bytes,29,TextInputHost.exe,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInputHost.exe,2021-11-10 02:43:19
+DESKTOP-RSMPLND,7.63 MB,1.86 MB,29,dllhost.exe,C:\Windows\System32\dllhost.exe,2021-11-10 02:43:19
+DESKTOP-RSMPLND,933.98 MB,1.27 GB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 02:43:20
+DESKTOP-RSMPLND,8.34 KB,2.35 KB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 02:43:20
+DESKTOP-RSMPLND,409.48 MB,437.02 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 02:43:21
+DESKTOP-RSMPLND,231.95 MB,791.75 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 02:43:21
+DESKTOP-RSMPLND,34.72 MB,239.7 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 02:43:21
+DESKTOP-RSMPLND,53.47 MB,47.03 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 02:43:21
+DESKTOP-RSMPLND,689.85 KB,9.55 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 02:43:23
+DESKTOP-RSMPLND,48.72 MB,38.97 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 02:43:25
+DESKTOP-RSMPLND,41.8 MB,161.45 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 02:43:32
+DESKTOP-RSMPLND,40.61 KB,0 bytes,29,cmd.exe,C:\Windows\System32\cmd.exe,2021-11-10 02:43:33
+DESKTOP-RSMPLND,7.45 KB,0 bytes,29,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-10 02:43:33
+DESKTOP-RSMPLND,6.95 MB,512 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:44:05
+DESKTOP-RSMPLND,58 KB,0 bytes,29,ApplicationFrameHost.exe,C:\Windows\System32\ApplicationFrameHost.exe,2021-11-10 02:44:09
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:44:09
+DESKTOP-RSMPLND,71.32 KB,407.53 KB,29,GameBarFTServer.exe,C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.721.10202.0_x64__8wekyb3d8bbwe\GameBarFTServer.exe,2021-11-10 02:44:10
+DESKTOP-RSMPLND,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:44:59
+DESKTOP-RSMPLND,4.35 GB,3.53 GB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 02:48:02
+DESKTOP-RSMPLND,49.29 MB,42.3 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 02:50:39
+DESKTOP-RSMPLND,102.15 MB,101.44 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 02:51:26
+DESKTOP-RSMPLND,56.31 MB,45.93 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 02:52:12
+DESKTOP-RSMPLND,765.95 KB,208.9 KB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 06:23:05
+DESKTOP-RSMPLND,2.01 KB,0 bytes,28,ShellExperienceHost.exe,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe,2021-11-10 18:21:42
+DESKTOP-RSMPLND,9.11 KB,424 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 18:25:46
+DESKTOP-RSMPLND,42.92 MB,14.08 MB,28,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 18:38:00
+DESKTOP-RSMPLND,4.05 KB,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 20:50:57
+DESKTOP-RSMPLND,35.13 MB,6.77 KB,26,NanoNTDevelopment.exe,C:\Program Files (x86)\SanDisk\NanoNTDevelopment\NanoNTDevelopment 12.7\Bin\NanoNTDevelopment.exe,2021-11-12 23:31:21
+DESKTOP-RSMPLND,9.33 KB,6.62 KB,26,PYSCRI~1.EXE,C:\PROGRA~2\SanDisk\NANONT~1\NANONT~1.8\Bin\PYSCRI~1.EXE,2021-11-12 23:31:24
+DESKTOP-RSMPLND,17.17 KB,142 bytes,26,notepad.exe,C:\Windows\System32\notepad.exe,2021-11-12 23:31:39
+DESKTOP-RSMPLND,242.04 KB,51.67 KB,26,LogConv2.9.exe,C:\Users\Sandisk\Desktop\Latest NanoNT Tools\LogConv2.9.exe,2021-11-13 00:13:14
+DESKTOP-RSMPLND,185.84 KB,284.43 KB,26,VtDistConv5.2.exe,C:\Users\Sandisk\Desktop\Latest NanoNT Tools\VtDistConv5.2\VtDistConv5.2.exe,2021-11-13 00:14:24
+DESKTOP-RSMPLND,754.96 KB,0 bytes,26,pythonw.exe,C:\Users\Sandisk\Anaconda2\pythonw.exe,2021-11-13 00:16:26
+DESKTOP-RSMPLND,31.76 MB,456.18 KB,26,pythonw.exe,C:\Users\Sandisk\Anaconda2\pythonw.exe,2021-11-13 00:16:26
+DESKTOP-RSMPLND,12.57 MB,315 bytes,26,python.exe,C:\Users\Sandisk\Anaconda2\python.exe,2021-11-13 00:16:33
+DESKTOP-RSMPLND,9.41 KB,0 bytes,26,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-13 00:16:33
+DESKTOP-RSMPLND,9.85 GB,7.86 MB,26,python.exe,C:\Users\Sandisk\Anaconda2\python.exe,2021-11-13 00:16:33
+DESKTOP-RSMPLND,0 bytes,0 bytes,26,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-13 00:16:33
+DESKTOP-RSMPLND,90.29 MB,4.34 MB,26,WPConv3.8.exe,C:\Users\Sandisk\Desktop\Latest NanoNT Tools\WPConv3.8\WPConv3.8.exe,2021-11-13 00:37:00
+DESKTOP-RSMPLND,1.94 MB,820.05 KB,26,taskhostw.exe,C:\Windows\System32\taskhostw.exe,2021-11-13 00:43:27
+DESKTOP-RSMPLND,12.21 GB,154.31 MB,24,MoUsoCoreWorker.exe,C:\Windows\System32\MoUsoCoreWorker.exe,2021-11-14 13:17:26
+DESKTOP-RSMPLND,5.15 KB,0 bytes,23,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-15 17:08:21
+DESKTOP-RSMPLND,20.76 MB,3.88 GB,23,orbit.exe,C:\Program Files\Orbit\bin\orbit\orbit.exe,2021-11-15 17:10:12
+DESKTOP-RSMPLND,144 bytes,4 bytes,23,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-11-15 17:10:13
+DESKTOP-RSMPLND,5.6 KB,0 bytes,23,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-15 17:10:13
+DESKTOP-RSMPLND,1.35 GB,32.78 MB,23,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-11-15 17:10:14
+DESKTOP-RSMPLND,46.91 KB,0 bytes,23,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-15 18:42:36
+DESKTOP-RSMPLND,33.2 KB,0 bytes,23,winlogon.exe,C:\Windows\System32\winlogon.exe,2021-11-15 18:42:36
+DESKTOP-RSMPLND,569 bytes,0 bytes,23,fontdrvhost.exe,C:\Windows\System32\fontdrvhost.exe,2021-11-15 18:42:36
+DESKTOP-RSMPLND,2.14 MB,1.64 MB,23,LogonUI.exe,C:\Windows\System32\LogonUI.exe,2021-11-15 18:42:36
+DESKTOP-RSMPLND,71.6 KB,0 bytes,23,dwm.exe,C:\Windows\System32\dwm.exe,2021-11-15 18:42:36
+DESKTOP-RSMPLND,204.34 MB,339.27 MB,23,rdpclip.exe,C:\Windows\System32\rdpclip.exe,2021-11-15 18:42:38
+DESKTOP-RSMPLND,32.48 KB,0 bytes,23,ctfmon.exe,C:\Windows\System32\ctfmon.exe,2021-11-15 18:42:39
+DESKTOP-RSMPLND,237.82 KB,4.2 MB,23,SearchApp.exe,C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe,2021-11-15 22:47:32
+DESKTOP-RSMPLND,100.43 MB,45.3 MB,23,Spotfire.Dxp.exe,C:\Program Files (x86)\TIBCO\Spotfire\5.5.0\Spotfire.Dxp.exe,2021-11-15 23:56:59
+DESKTOP-RSMPLND,4.53 MB,30.86 MB,23,Spotfire.Dxp.Cef.SubProcess.exe,C:\Users\Sandisk\AppData\Local\TIBCO\Spotfire\5.5.0\Modules\Spotfire Web Browser_23.28.9701.4854\Spotfire.Dxp.Cef.SubProcess.exe,2021-11-15 23:59:04
+DESKTOP-RSMPLND,22.85 KB,8.07 KB,23,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-16 00:23:56
+DESKTOP-RSMPLND,5.57 KB,0 bytes,23,SavUI.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.0.3752.1000.105\Bin\SavUI.exe,2021-11-16 04:00:02
+DESKTOP-RSMPLND,0 bytes,0 bytes,23,WmiPrvSE.exe,C:\Windows\SysWOW64\wbem\WmiPrvSE.exe,2021-11-16 04:00:24
+DESKTOP-RSMPLND,74.02 MB,73.1 MB,22,Spotfire.Dxp.exe,C:\Program Files (x86)\TIBCO\Spotfire\5.5.0\Spotfire.Dxp.exe,2021-11-16 21:31:55
+DESKTOP-RSMPLND,3.52 MB,20.75 MB,22,Spotfire.Dxp.Cef.SubProcess.exe,C:\Users\Sandisk\AppData\Local\TIBCO\Spotfire\5.5.0\Modules\Spotfire Web Browser_23.28.9701.4854\Spotfire.Dxp.Cef.SubProcess.exe,2021-11-16 21:38:31
+DESKTOP-RSMPLND,30.91 MB,32.65 MB,22,POWERPNT.EXE,C:\Program Files (x86)\Microsoft Office\Office12\POWERPNT.EXE,2021-11-16 21:58:17
+DESKTOP-RSMPLND,275.01 KB,12.3 KB,22,splwow64.exe,C:\Windows\splwow64.exe,2021-11-16 21:58:17
+DESKTOP-RSMPLND,0 bytes,0 bytes,18,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-20 20:46:40
+DESKTOP-RSMPLND,735.88 MB,320.83 MB,18,Microsoft.Photos.exe,C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2021.21090.10008.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe,2021-11-20 20:48:50
+DESKTOP-RSMPLND,5.57 MB,82.32 KB,18,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-20 20:48:50
+DESKTOP-RSMPLND,1.78 KB,579 bytes,18,YourPhone.exe,C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21102.134.0_x64__8wekyb3d8bbwe\YourPhone.exe,2021-11-21 00:01:56
+DESKTOP-RSMPLND,8.82 KB,0 bytes,18,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-21 00:01:57
+DESKTOP-RSMPLND,0 bytes,0 bytes,16,TabTip.exe,C:\Program Files\Common Files\microsoft shared\ink\TabTip.exe,2021-11-23 01:56:50
+DESKTOP-RSMPLND,1.38 KB,0 bytes,14,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-24 12:12:25
+DESKTOP-RSMPLND,92.7 KB,24.9 KB,9,Spotfire.Dxp.Cef.SubProcess.exe,C:\Users\Sandisk\AppData\Local\TIBCO\Spotfire\5.5.0\Modules\Spotfire Web Browser_23.28.9701.4854\Spotfire.Dxp.Cef.SubProcess.exe,2021-11-30 02:07:08
+DESKTOP-RSMPLND,59.27 KB,24.39 KB,9,Spotfire.Dxp.Cef.SubProcess.exe,C:\Users\Sandisk\AppData\Local\TIBCO\Spotfire\5.5.0\Modules\Spotfire Web Browser_23.28.9701.4854\Spotfire.Dxp.Cef.SubProcess.exe,2021-11-30 02:07:08
+DESKTOP-RSMPLND,19.97 MB,53.55 MB,9,VtDistConv5.2.exe,C:\Users\Sandisk\Desktop\Latest NanoNT Tools\VtDistConv5.2\VtDistConv5.2.exe,2021-11-30 02:17:06
+DESKTOP-RSMPLND,20.82 MB,20.68 MB,7,OneDrive.exe,C:\Users\Sandisk\AppData\Local\Microsoft\OneDrive\OneDrive.exe,2021-12-01 20:49:22
+DESKTOP-RSMPLND,512.17 KB,197.15 KB,5,StartMenuExperienceHost.exe,C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe,2021-12-03 20:54:02
+DESKTOP-RSMPLND,72.05 KB,726.77 KB,1,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-12-07 21:51:38
+DESKTOP-RSMPLND,569 bytes,0 bytes,1,LogonUI.exe,C:\Windows\System32\LogonUI.exe,2021-12-07 23:28:46
+DESKTOP-RSMPLND,0 bytes,0 bytes,0,svchost.exe,C:\Windows\System32\svchost.exe,2021-12-08 17:44:22
+DESKTOP-RSMPLND,2.72 MB,49.43 KB,0,svchost.exe,C:\Windows\System32\svchost.exe,2021-12-08 17:49:16
+Nano0102a,-1 bytes,-1 bytes,0,[System Process],,1969-12-31 23:59:59
+Nano0102a,953.16 MB,4.59 GB,22,System,,2021-11-17 05:44:13
+Nano0102a,37.52 KB,20 bytes,22,smss.exe,C:\Windows\System32\smss.exe,2021-11-17 05:44:13
+Nano0102a,5.96 MB,0 bytes,22,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-17 05:44:28
+Nano0102a,157.89 KB,0 bytes,22,wininit.exe,C:\Windows\System32\wininit.exe,2021-11-17 05:44:28
+Nano0102a,4.57 GB,4.84 MB,22,services.exe,C:\Windows\System32\services.exe,2021-11-17 05:44:29
+Nano0102a,40.39 MB,53.93 MB,22,lsass.exe,C:\Windows\System32\lsass.exe,2021-11-17 05:44:29
+Nano0102a,343.61 KB,0 bytes,22,lsm.exe,C:\Windows\System32\lsm.exe,2021-11-17 05:44:29
+Nano0102a,17.97 GB,0 bytes,22,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-17 05:44:31
+Nano0102a,27.18 KB,0 bytes,22,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-17 05:44:31
+Nano0102a,3.21 GB,102.78 MB,22,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-17 05:44:31
+Nano0102a,699.1 MB,2.57 GB,22,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-17 05:44:31
+Nano0102a,270.85 KB,2.61 KB,22,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-17 05:44:31
+Nano0102a,14.87 GB,3.27 GB,22,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-17 05:44:31
+Nano0102a,432.49 KB,160 bytes,22,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-17 05:44:32
+Nano0102a,61.95 MB,32.76 MB,22,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-17 05:44:32
+Nano0102a,560.89 KB,320 bytes,22,spoolsv.exe,C:\Windows\System32\spoolsv.exe,2021-11-17 05:44:33
+Nano0102a,10.59 MB,311.3 KB,22,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-17 05:44:33
+Nano0102a,131.11 MB,144 bytes,22,CSFalconService.exe,C:\Program Files\CrowdStrike\CSFalconService.exe,2021-11-17 05:44:33
+Nano0102a,485.67 KB,1.31 KB,22,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-17 05:44:34
+Nano0102a,27.3 KB,160 bytes,22,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-17 05:44:34
+Nano0102a,26.1 MB,31.61 KB,22,CSFalconContainer.exe,C:\Program Files\CrowdStrike\CSFalconContainer.exe,2021-11-17 05:44:35
+Nano0102a,7.96 MB,8.14 MB,22,wrapper.exe,C:\Program Files\SSM\SuperDoctor5\wrapper.exe,2021-11-17 05:44:35
+Nano0102a,351.49 KB,0 bytes,22,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-17 05:44:35
+Nano0102a,28.74 GB,4.26 GB,22,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\12.1.7061.6600.105\Bin\ccSvcHst.exe,2021-11-17 05:44:36
+Nano0102a,55.21 GB,13.9 MB,22,java.exe,C:\Program Files\SSM\jre\bin\java.exe,2021-11-17 05:44:37
+Nano0102a,14.03 MB,1.99 MB,22,miragent.exe,C:\Program Files (x86)\MANDIANT\MANDIANT Intelligent Response Agent\miragent.exe,2021-11-17 05:44:44
+Nano0102a,3.26 GB,116 bytes,22,TaniumClient.exe,C:\Program Files (x86)\Tanium\Tanium Client\TaniumClient.exe,2021-11-17 05:44:44
+Nano0102a,47.1 KB,0 bytes,22,unsecapp.exe,C:\Windows\System32\wbem\unsecapp.exe,2021-11-17 05:44:49
+Nano0102a,291.98 MB,170.93 MB,22,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-11-17 05:44:49
+Nano0102a,27.14 KB,0 bytes,22,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-17 05:44:58
+Nano0102a,397.94 KB,8.73 KB,22,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-11-17 05:46:59
+Nano0102a,579.8 MB,97.34 KB,22,MicrosoftEdgeUpdate.exe,C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe,2021-11-17 05:47:00
+Nano0102a,65.82 MB,2.04 MB,22,SearchIndexer.exe,C:\Windows\System32\SearchIndexer.exe,2021-11-17 05:47:02
+Nano0102a,411.4 KB,0 bytes,22,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-11-17 05:47:34
+Nano0102a,2.96 MB,0 bytes,21,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-17 05:56:14
+Nano0102a,829.89 KB,1.6 KB,21,winlogon.exe,C:\Windows\System32\winlogon.exe,2021-11-17 05:56:14
+Nano0102a,2.46 MB,3.06 MB,21,taskhost.exe,C:\Windows\System32\taskhost.exe,2021-11-17 05:56:20
+Nano0102a,838.12 KB,0 bytes,21,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\12.1.7061.6600.105\Bin\ccSvcHst.exe,2021-11-17 05:56:20
+Nano0102a,120.38 KB,0 bytes,21,dwm.exe,C:\Windows\System32\dwm.exe,2021-11-17 05:56:21
+Nano0102a,547.95 MB,443.13 MB,21,explorer.exe,C:\Windows\explorer.exe,2021-11-17 05:56:22
+Nano0102a,1.66 MB,2.4 MB,21,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-11-17 05:56:23
+Nano0102a,2.9 MB,8.39 MB,21,wmpnetwk.exe,C:\Program Files\Windows Media Player\wmpnetwk.exe,2021-11-17 05:56:30
+Nano0102a,65.98 MB,221.55 MB,21,NanoNTDevelopment.exe,C:\Program Files (x86)\SanDisk\NanoNTDevelopment\NanoNTDevelopment 12.7\Bin\NanoNTDevelopment.exe,2021-11-17 06:08:32
+Nano0102a,3.24 MB,76 KB,21,PyScriptEditor.exe,C:\Program Files (x86)\SanDisk\NanoNTDevelopment\NanoNTDevelopment 12.4\Bin\PyScriptEditor.exe,2021-11-17 06:08:37
+Nano0102a,152.77 MB,39.09 MB,4,CcmExec.exe,C:\Windows\CCM\CcmExec.exe,2021-12-04 09:26:41
+Nano0102a,984.77 KB,164.35 KB,4,SCNotification.exe,C:\Windows\CCM\SCNotification.exe,2021-12-04 09:28:42
+Nano0102a,957.31 KB,0 bytes,3,cmd.exe,C:\Windows\SysWOW64\cmd.exe,2021-12-05 12:53:47
+Nano0102a,351.61 KB,0 bytes,3,conhost.exe,C:\Windows\System32\conhost.exe,2021-12-05 12:53:47
+Nano0102a,378.56 MB,40.19 KB,3,cscript.exe,C:\Windows\SysWOW64\cscript.exe,2021-12-05 12:53:48
+Nano0102a,135.41 MB,150.52 MB,1,orbit.exe,C:\Program Files\Orbit\bin\orbit\orbit.exe,2021-12-07 20:27:16
+Nano0102a,123.9 MB,4 bytes,1,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-12-07 20:27:24
+Nano0102a,351.87 KB,0 bytes,1,conhost.exe,C:\Windows\System32\conhost.exe,2021-12-07 20:27:27
+Nano0102a,74.4 MB,1.7 MB,1,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-12-07 20:27:28
+Nano0102a,202.04 KB,0 bytes,0,taskhost.exe,C:\Windows\System32\taskhost.exe,2021-12-08 08:02:32
+Nano0102a,2.77 GB,64.93 MB,0,TaniumClient.exe,C:\Program Files (x86)\Tanium\Tanium Client\TaniumClient.exe,2021-12-08 15:13:50
+Nano0102a,351.13 KB,0 bytes,0,conhost.exe,C:\Windows\System32\conhost.exe,2021-12-08 15:13:51
+Nano0102a,36.97 MB,70.89 KB,0,TaniumClient.exe,C:\Program Files (x86)\Tanium\Tanium Client\TaniumClient.exe,2021-12-08 17:51:22
+Nano0102a,398.5 KB,0 bytes,0,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-12-08 17:52:04
+Sack,-1 bytes,-1 bytes,0,[System Process],,1969-12-31 23:59:59
+Sack,669.97 MB,9.2 GB,45,System,,2021-10-24 23:22:59
+Sack,67.09 KB,20 bytes,45,smss.exe,C:\Windows\System32\smss.exe,2021-10-24 23:22:59
+Sack,38.28 MB,0 bytes,45,csrss.exe,C:\Windows\System32\csrss.exe,2021-10-24 23:23:04
+Sack,7.17 KB,0 bytes,45,wininit.exe,C:\Windows\System32\wininit.exe,2021-10-24 23:23:06
+Sack,104.56 MB,698.33 MB,45,services.exe,C:\Windows\System32\services.exe,2021-10-24 23:23:06
+Sack,142.25 MB,222.51 MB,45,lsass.exe,C:\Windows\System32\lsass.exe,2021-10-24 23:23:06
+Sack,0 bytes,0 bytes,45,lsm.exe,C:\Windows\System32\lsm.exe,2021-10-24 23:23:06
+Sack,349.36 MB,25.2 KB,45,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-24 23:23:10
+Sack,0 bytes,0 bytes,45,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-24 23:23:10
+Sack,683.88 MB,105.62 MB,45,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-24 23:23:10
+Sack,1.66 GB,3.1 GB,45,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-24 23:23:10
+Sack,113.99 KB,4.26 KB,45,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-24 23:23:10
+Sack,31.64 GB,3.05 GB,45,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-24 23:23:10
+Sack,69 bytes,33 bytes,45,stacsv64.exe,C:\Program Files\IDT\WDM\stacsv64.exe,2021-10-24 23:23:10
+Sack,388.51 MB,226.77 MB,45,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-24 23:23:12
+Sack,1.27 KB,320 bytes,45,spoolsv.exe,C:\Windows\System32\spoolsv.exe,2021-10-24 23:23:12
+Sack,388.69 MB,16.51 MB,45,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-24 23:23:12
+Sack,287.2 KB,2.09 KB,45,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-24 23:23:12
+Sack,1 byte,1.09 KB,45,HeciServer.exe,C:\Program Files\Intel\iCLS Client\HeciServer.exe,2021-10-24 23:23:12
+Sack,0 bytes,0 bytes,45,Jhi_service.exe,C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL\Jhi_service.exe,2021-10-24 23:23:12
+Sack,20.74 MB,7.11 GB,45,orbit.exe,C:\Program Files\Orbit\bin\orbit\orbit.exe,2021-10-24 23:23:13
+Sack,262.16 KB,57.35 KB,45,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-10-24 23:23:14
+Sack,0 bytes,0 bytes,45,conhost.exe,C:\Windows\System32\conhost.exe,2021-10-24 23:23:14
+Sack,1.23 TB,29.54 GB,45,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.2.1023.0100.105\Bin\ccSvcHst.exe,2021-10-24 23:23:14
+Sack,2.6 GB,90.19 MB,45,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-10-24 23:23:15
+Sack,92 bytes,116 bytes,45,TaniumClient.exe,C:\Program Files (x86)\Tanium\Tanium Client\TaniumClient.exe,2021-10-24 23:23:15
+Sack,0 bytes,0 bytes,45,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-24 23:23:24
+Sack,921.94 MB,426.95 MB,45,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-10-24 23:23:27
+Sack,236.99 KB,118.56 KB,45,GoogleCrashHandler.exe,C:\Program Files (x86)\Google\Update\1.3.36.112\GoogleCrashHandler.exe,2021-10-24 23:23:27
+Sack,8.12 KB,4.16 KB,45,GoogleCrashHandler64.exe,C:\Program Files (x86)\Google\Update\1.3.36.112\GoogleCrashHandler64.exe,2021-10-24 23:23:27
+Sack,17.67 MB,7.26 MB,45,SearchIndexer.exe,C:\Windows\System32\SearchIndexer.exe,2021-10-24 23:23:56
+Sack,0 bytes,0 bytes,45,unsecapp.exe,C:\Windows\System32\wbem\unsecapp.exe,2021-10-24 23:24:16
+Sack,2.13 KB,0 bytes,45,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-24 23:24:21
+Sack,26.22 MB,13.69 MB,45,IAStorDataMgrSvc.exe,C:\Program Files (x86)\Intel\Intel(R) Rapid Storage Technology\IAStorDataMgrSvc.exe,2021-10-24 23:25:27
+Sack,0 bytes,18 bytes,45,LMS.exe,C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\LMS\LMS.exe,2021-10-24 23:25:27
+Sack,28.71 KB,64 bytes,45,UNS.exe,C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\UNS\UNS.exe,2021-10-24 23:25:29
+Sack,19.82 KB,0 bytes,44,cmd.exe,C:\Windows\SysWOW64\cmd.exe,2021-10-25 21:00:23
+Sack,17.62 KB,0 bytes,44,conhost.exe,C:\Windows\System32\conhost.exe,2021-10-25 21:00:23
+Sack,1.21 GB,736.77 MB,44,cscript.exe,C:\Windows\SysWOW64\cscript.exe,2021-10-25 21:00:23
+Sack,7.68 MB,0 bytes,40,csrss.exe,C:\Windows\System32\csrss.exe,2021-10-29 22:30:27
+Sack,1.26 MB,800 bytes,40,winlogon.exe,C:\Windows\System32\winlogon.exe,2021-10-29 22:30:28
+Sack,10.24 GB,4.07 GB,37,TrustedInstaller.exe,C:\Windows\servicing\TrustedInstaller.exe,2021-11-01 17:36:08
+Sack,1.96 MB,6.77 MB,37,taskhost.exe,C:\Windows\System32\taskhost.exe,2021-11-01 22:38:38
+Sack,81.96 MB,0 bytes,37,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.2.1023.0100.105\Bin\ccSvcHst.exe,2021-11-01 22:38:39
+Sack,22.49 KB,0 bytes,37,rundll32.exe,C:\Windows\System32\rundll32.exe,2021-11-01 22:38:39
+Sack,37.76 KB,0 bytes,37,dwm.exe,C:\Windows\System32\dwm.exe,2021-11-01 22:38:40
+Sack,484.54 MB,3.36 MB,37,explorer.exe,C:\Windows\explorer.exe,2021-11-01 22:38:40
+Sack,21.75 KB,0 bytes,37,igfxtray.exe,C:\Windows\System32\igfxtray.exe,2021-11-01 22:38:41
+Sack,29.44 KB,0 bytes,37,hkcmd.exe,C:\Windows\System32\hkcmd.exe,2021-11-01 22:38:41
+Sack,38.1 KB,6 KB,37,igfxpers.exe,C:\Windows\System32\igfxpers.exe,2021-11-01 22:38:41
+Sack,10.42 KB,0 bytes,37,sttray64.exe,C:\Program Files\IDT\WDM\sttray64.exe,2021-11-01 22:38:41
+Sack,39.87 KB,0 bytes,37,StikyNot.exe,C:\Windows\System32\StikyNot.exe,2021-11-01 22:38:41
+Sack,12.65 MB,24.06 MB,37,IAStorIcon.exe,C:\Program Files (x86)\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe,2021-11-01 22:38:41
+Sack,30.6 KB,0 bytes,37,concentr.exe,C:\Program Files (x86)\Citrix\ICA Client\concentr.exe,2021-11-01 22:38:42
+Sack,65.9 KB,0 bytes,37,wfcrun32.exe,C:\Program Files (x86)\Citrix\ICA Client\wfcrun32.exe,2021-11-01 22:38:42
+Sack,2.44 MB,1.45 MB,37,taskhost.exe,C:\Windows\System32\taskhost.exe,2021-11-01 22:41:04
+Sack,0 bytes,0 bytes,34,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-04 20:36:10
+Sack,1.82 MB,381.08 KB,33,sublime_text.exe,C:\Program Files (x86)\Sublime Text 3\sublime_text.exe,2021-11-05 19:34:19
+Sack,5.53 MB,3.95 MB,33,plugin_host.exe,C:\Program Files (x86)\Sublime Text 3\plugin_host.exe,2021-11-05 19:34:20
+Sack,60 bytes,0 bytes,15,SnippingTool.exe,C:\Windows\System32\SnippingTool.exe,2021-11-23 19:16:12
+Sack,0 bytes,0 bytes,15,wisptis.exe,C:\Windows\System32\wisptis.exe,2021-11-23 19:16:13
+Sack,6.14 MB,6.01 KB,9,NanoNTDevelopment.exe,C:\Program Files (x86)\SanDisk\NanoNTDevelopment\NanoNTDevelopment 12.9\Bin\NanoNTDevelopment.exe,2021-11-29 20:21:47
+Sack,36.99 KB,7.51 KB,9,PyScriptEditor.exe,C:\Program Files (x86)\SanDisk\NanoNTDevelopment\NanoNTDevelopment 12.9\Bin\PyScriptEditor.exe,2021-11-29 20:21:50
+Sack,152.36 KB,320 bytes,2,LogonUI.exe,C:\Windows\System32\LogonUI.exe,2021-12-06 16:35:56
+Sack,2.81 GB,49.4 MB,0,TaniumClient.exe,C:\Program Files (x86)\Tanium\Tanium Client\TaniumClient.exe,2021-12-08 15:34:17
+Sack,13.38 KB,0 bytes,0,conhost.exe,C:\Windows\System32\conhost.exe,2021-12-08 15:34:17
+Sack,4.87 MB,576 bytes,0,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-12-08 17:39:36
+Sack,26.2 MB,78.73 KB,0,TaniumClient.exe,C:\Program Files (x86)\Tanium\Tanium Client\TaniumClient.exe,2021-12-08 17:46:21
+NANO0101,-1 bytes,-1 bytes,0,[System Process],,1969-12-31 23:59:59
+NANO0101,2.77 GB,5.36 GB,32,System,,2021-11-06 18:42:49
+NANO0101,33.41 KB,20 bytes,32,smss.exe,C:\Windows\System32\smss.exe,2021-11-06 18:42:49
+NANO0101,20.27 MB,0 bytes,32,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-06 18:42:53
+NANO0101,165.69 KB,0 bytes,32,wininit.exe,C:\Windows\System32\wininit.exe,2021-11-06 18:42:54
+NANO0101,534.2 KB,0 bytes,32,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-06 18:42:54
+NANO0101,960.66 KB,1.76 KB,32,winlogon.exe,C:\Windows\System32\winlogon.exe,2021-11-06 18:42:54
+NANO0101,2.85 GB,5.8 MB,32,services.exe,C:\Windows\System32\services.exe,2021-11-06 18:42:55
+NANO0101,59.73 MB,78.88 MB,32,lsass.exe,C:\Windows\System32\lsass.exe,2021-11-06 18:42:56
+NANO0101,343.61 KB,0 bytes,32,lsm.exe,C:\Windows\System32\lsm.exe,2021-11-06 18:42:56
+NANO0101,25.91 GB,0 bytes,32,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-06 18:42:56
+NANO0101,27.7 KB,0 bytes,32,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-06 18:42:57
+NANO0101,5.61 GB,92.84 MB,32,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-06 18:42:57
+NANO0101,27.51 GB,3.12 GB,32,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-06 18:42:57
+NANO0101,282.4 KB,800 bytes,32,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-06 18:42:57
+NANO0101,16.02 GB,4.57 GB,32,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-06 18:42:57
+NANO0101,2.18 MB,0 bytes,32,igfxCUIService.exe,C:\Windows\System32\igfxCUIService.exe,2021-11-06 18:42:58
+NANO0101,75.61 MB,88.4 MB,32,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-06 18:42:59
+NANO0101,560.89 KB,320 bytes,32,spoolsv.exe,C:\Windows\System32\spoolsv.exe,2021-11-06 18:43:00
+NANO0101,622.06 KB,551.94 KB,32,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-06 18:43:00
+NANO0101,131.26 MB,792 bytes,32,CSFalconService.exe,C:\Program Files\CrowdStrike\CSFalconService.exe,2021-11-06 18:43:00
+NANO0101,727.21 KB,1.83 KB,32,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-06 18:43:00
+NANO0101,29.95 KB,160 bytes,32,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-06 18:43:00
+NANO0101,11.04 MB,12.11 MB,32,wrapper.exe,C:\Program Files\SSM\SuperDoctor5\wrapper.exe,2021-11-06 18:43:01
+NANO0101,359.32 KB,0 bytes,32,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-06 18:43:01
+NANO0101,40.14 GB,7.52 GB,32,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\12.1.7061.6600.105\Bin\ccSvcHst.exe,2021-11-06 18:43:01
+NANO0101,26.1 MB,173.84 KB,32,CSFalconContainer.exe,C:\Program Files\CrowdStrike\CSFalconContainer.exe,2021-11-06 18:43:01
+NANO0101,82.03 GB,20.68 MB,32,java.exe,C:\Program Files\SSM\jre\bin\java.exe,2021-11-06 18:43:02
+NANO0101,24.77 MB,12.45 MB,32,miragent.exe,C:\Program Files (x86)\MANDIANT\MANDIANT Intelligent Response Agent\miragent.exe,2021-11-06 18:43:09
+NANO0101,4.92 GB,116 bytes,32,TaniumClient.exe,C:\Program Files (x86)\Tanium\Tanium Client\TaniumClient.exe,2021-11-06 18:43:10
+NANO0101,47.63 KB,0 bytes,32,unsecapp.exe,C:\Windows\System32\wbem\unsecapp.exe,2021-11-06 18:43:13
+NANO0101,423.96 MB,243.74 MB,32,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-11-06 18:43:13
+NANO0101,27.7 KB,0 bytes,32,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-06 18:43:23
+NANO0101,400.78 KB,7.08 KB,32,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-11-06 18:45:25
+NANO0101,29.14 MB,8.81 MB,32,SearchIndexer.exe,C:\Windows\System32\SearchIndexer.exe,2021-11-06 18:45:28
+NANO0101,400.78 KB,0 bytes,32,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-11-06 18:45:50
+NANO0101,7.67 GB,2.69 GB,30,TrustedInstaller.exe,C:\Windows\servicing\TrustedInstaller.exe,2021-11-08 19:32:33
+NANO0101,148.65 MB,25.63 MB,4,CcmExec.exe,C:\Windows\CCM\CcmExec.exe,2021-12-04 09:32:24
+NANO0101,957.37 KB,0 bytes,4,cmd.exe,C:\Windows\SysWOW64\cmd.exe,2021-12-04 09:53:47
+NANO0101,351.51 KB,0 bytes,4,conhost.exe,C:\Windows\System32\conhost.exe,2021-12-04 09:53:47
+NANO0101,505.91 MB,53.41 KB,4,cscript.exe,C:\Windows\SysWOW64\cscript.exe,2021-12-04 09:53:47
+NANO0101,5.15 MB,1.79 MB,1,taskhost.exe,C:\Windows\System32\taskhost.exe,2021-12-07 20:23:43
+NANO0101,943.64 KB,0 bytes,1,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\12.1.7061.6600.105\Bin\ccSvcHst.exe,2021-12-07 20:23:43
+NANO0101,542.87 KB,0 bytes,1,PresentationFontCache.exe,C:\Windows\Microsoft.NET\Framework64\v3.0\WPF\PresentationFontCache.exe,2021-12-07 20:23:53
+NANO0101,120.95 KB,0 bytes,1,dwm.exe,C:\Windows\System32\dwm.exe,2021-12-07 20:23:53
+NANO0101,12.9 MB,144.53 KB,1,explorer.exe,C:\Windows\explorer.exe,2021-12-07 20:23:54
+NANO0101,398.21 KB,51.53 KB,1,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-12-07 20:23:54
+NANO0101,324.57 KB,39.08 KB,1,igfxEM.exe,C:\Windows\System32\igfxEM.exe,2021-12-07 20:23:56
+NANO0101,258.03 KB,0 bytes,1,igfxHK.exe,C:\Windows\System32\igfxHK.exe,2021-12-07 20:23:56
+NANO0101,405.02 KB,0 bytes,1,igfxTray.exe,C:\Windows\System32\igfxTray.exe,2021-12-07 20:23:56
+NANO0101,970 KB,37.21 KB,1,SCNotification.exe,C:\Windows\CCM\SCNotification.exe,2021-12-07 20:24:05
+NANO0101,292.85 KB,0 bytes,1,iusb3mon.exe,C:\Program Files (x86)\Intel\Intel(R) USB 3.0 eXtensible Host Controller Driver\Application\iusb3mon.exe,2021-12-07 20:24:08
+NANO0101,1.6 MB,352.83 KB,1,wmpnetwk.exe,C:\Program Files\Windows Media Player\wmpnetwk.exe,2021-12-07 20:24:14
+NANO0101,135.41 MB,150.54 MB,1,orbit.exe,C:\Program Files\Orbit\bin\orbit\orbit.exe,2021-12-07 20:27:10
+NANO0101,123.89 MB,4 bytes,1,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-12-07 20:27:17
+NANO0101,351.51 KB,0 bytes,1,conhost.exe,C:\Windows\System32\conhost.exe,2021-12-07 20:27:20
+NANO0101,74.3 MB,1.7 MB,1,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-12-07 20:27:21
+NANO0101,2.62 GB,47.03 MB,0,TaniumClient.exe,C:\Program Files (x86)\Tanium\Tanium Client\TaniumClient.exe,2021-12-08 16:00:09
+NANO0101,351.51 KB,0 bytes,0,conhost.exe,C:\Windows\System32\conhost.exe,2021-12-08 16:00:09
+NANO0101,66.83 MB,80.13 KB,0,TaniumClient.exe,C:\Program Files (x86)\Tanium\Tanium Client\TaniumClient.exe,2021-12-08 17:46:33
+NANO0101,398.32 KB,0 bytes,0,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-12-08 17:52:40
+DESKTOP-TE9F18I,-1 bytes,-1 bytes,0,[System Process],,1969-12-31 23:59:59
+DESKTOP-TE9F18I,633.5 MB,11.91 GB,29,System,,2021-11-10 01:34:47
+DESKTOP-TE9F18I,2.05 KB,1.83 GB,29,Registry,Registry,2021-11-10 01:34:44
+DESKTOP-TE9F18I,23.65 KB,24.72 KB,29,smss.exe,C:\Windows\System32\smss.exe,2021-11-10 01:34:47
+DESKTOP-TE9F18I,2.12 MB,0 bytes,29,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-10 01:34:49
+DESKTOP-TE9F18I,9.73 KB,0 bytes,29,wininit.exe,C:\Windows\System32\wininit.exe,2021-11-10 01:34:50
+DESKTOP-TE9F18I,1.21 MB,0 bytes,29,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-10 01:34:50
+DESKTOP-TE9F18I,103.39 MB,124.99 KB,29,services.exe,C:\Windows\System32\services.exe,2021-11-10 01:34:50
+DESKTOP-TE9F18I,927.08 KB,640 bytes,29,winlogon.exe,C:\Windows\System32\winlogon.exe,2021-11-10 01:34:50
+DESKTOP-TE9F18I,49.98 MB,67.34 MB,29,lsass.exe,C:\Windows\System32\lsass.exe,2021-11-10 01:34:50
+DESKTOP-TE9F18I,464.01 MB,2.06 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:50
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,fontdrvhost.exe,C:\Windows\System32\fontdrvhost.exe,2021-11-10 01:34:50
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,fontdrvhost.exe,C:\Windows\System32\fontdrvhost.exe,2021-11-10 01:34:50
+DESKTOP-TE9F18I,81.41 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,71.05 KB,0 bytes,29,dwm.exe,C:\Windows\System32\dwm.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,1.08 MB,32.41 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,724 bytes,0 bytes,29,IntelCpHDCPSvc.exe,C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a086f01cc7be643a\IntelCpHDCPSvc.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,1.2 GB,2.06 GB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,860 bytes,140 bytes,29,IntelCpHeciSvc.exe,C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_a086f01cc7be643a\IntelCpHeciSvc.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,1.02 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,40.72 MB,411.7 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,714 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,20.34 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,1.04 KB,1.44 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,Memory Compression,MemCompression,2021-11-10 01:34:51
+DESKTOP-TE9F18I,101.86 KB,0 bytes,29,igfxCUIService.exe,C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_b8e01d9e8716d2a7\igfxCUIService.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,84.06 MB,261.35 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,60 bytes,12 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,46.1 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,304.84 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,2.47 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,10.09 MB,18.6 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,48.42 KB,36.48 KB,29,spoolsv.exe,C:\Windows\System32\spoolsv.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,173.67 KB,160 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,1.21 GB,1.13 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,117.18 KB,32.93 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:51
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,4.4 GB,1.22 GB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,162.09 MB,78.68 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,329.87 MB,2.73 GB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,29.18 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,1.03 MB,1.99 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,173.1 MB,343.49 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,202.41 KB,14.05 KB,29,OneApp.IGCC.WinService.exe,C:\Windows\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_54b736e5be5b50b2\OneApp.IGCC.WinService.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,427.2 GB,14.26 GB,29,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.0.3752.1000.105\Bin\ccSvcHst.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,18.9 KB,297 bytes,29,sisipsutil.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.0.3752.1000.105\SAEP\IPS\bin\sisipsutil.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,118.34 KB,7.77 KB,29,SISIPSService.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.0.3752.1000.105\SAEP\IPS\bin\SISIPSService.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,868.68 KB,139.43 KB,29,SISIDSService.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.0.3752.1000.105\SAEP\IDS\bin\SISIDSService.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,8.49 KB,232 bytes,29,TaniumClient.exe,C:\Program Files (x86)\Tanium\Tanium Client\TaniumClient.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,59.49 MB,79.86 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,116 bytes,160 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,232 bytes,320 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,jhi_service.exe,C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_ffc75848a6342fdf\jhi_service.exe,2021-11-10 01:34:52
+DESKTOP-TE9F18I,292.28 MB,100.06 MB,29,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-11-10 01:34:53
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:54
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:54
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:54
+DESKTOP-TE9F18I,116 bytes,160 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:54
+DESKTOP-TE9F18I,162.38 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:34:59
+DESKTOP-TE9F18I,383.1 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:35:03
+DESKTOP-TE9F18I,56.8 MB,16 bytes,29,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.0.3752.1000.105\Bin\ccSvcHst.exe,2021-11-10 01:35:12
+DESKTOP-TE9F18I,736.26 KB,0 bytes,29,sihost.exe,C:\Windows\System32\sihost.exe,2021-11-10 01:35:12
+DESKTOP-TE9F18I,1.51 MB,5.28 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:35:13
+DESKTOP-TE9F18I,2.23 MB,50.46 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:35:13
+DESKTOP-TE9F18I,2.13 MB,293.17 MB,29,taskhostw.exe,C:\Windows\System32\taskhostw.exe,2021-11-10 01:35:13
+DESKTOP-TE9F18I,241.42 KB,0 bytes,29,PresentationFontCache.exe,C:\Windows\Microsoft.NET\Framework64\v3.0\WPF\PresentationFontCache.exe,2021-11-10 01:35:13
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:35:13
+DESKTOP-TE9F18I,16.72 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:35:13
+DESKTOP-TE9F18I,4.33 KB,3.68 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:35:13
+DESKTOP-TE9F18I,192.16 MB,5.94 MB,29,explorer.exe,C:\Windows\explorer.exe,2021-11-10 01:35:13
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:35:13
+DESKTOP-TE9F18I,240.06 MB,175.38 KB,29,igfxEM.exe,C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_b8e01d9e8716d2a7\igfxEM.exe,2021-11-10 01:35:13
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:35:15
+DESKTOP-TE9F18I,3.35 MB,360 bytes,29,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 01:35:16
+DESKTOP-TE9F18I,594.11 MB,253.93 MB,29,SearchApp.exe,C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe,2021-11-10 01:35:16
+DESKTOP-TE9F18I,33.03 MB,18.1 MB,29,SearchIndexer.exe,C:\Windows\System32\SearchIndexer.exe,2021-11-10 01:35:16
+DESKTOP-TE9F18I,115.12 MB,408 bytes,29,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 01:35:16
+DESKTOP-TE9F18I,35.23 KB,0 bytes,29,LockApp.exe,C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe,2021-11-10 01:35:17
+DESKTOP-TE9F18I,11.23 KB,0 bytes,29,ShellExperienceHost.exe,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe,2021-11-10 01:35:17
+DESKTOP-TE9F18I,54.36 KB,248 bytes,29,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 01:35:17
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:35:17
+DESKTOP-TE9F18I,522 bytes,0 bytes,29,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 01:35:17
+DESKTOP-TE9F18I,89.49 MB,58.24 KB,29,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 01:35:26
+DESKTOP-TE9F18I,569 bytes,0 bytes,29,SecurityHealthSystray.exe,C:\Windows\System32\SecurityHealthSystray.exe,2021-11-10 01:35:27
+DESKTOP-TE9F18I,609 bytes,4.1 KB,29,SecurityHealthService.exe,C:\Windows\System32\SecurityHealthService.exe,2021-11-10 01:35:27
+DESKTOP-TE9F18I,173.61 MB,332.55 KB,29,IGCCTray.exe,C:\Program Files\WindowsApps\AppUp.IntelGraphicsExperience_1.100.3370.0_x64__8j3eq9eme6ctt\GCP.ML.BackgroundSysTray\IGCCTray.exe,2021-11-10 01:35:31
+DESKTOP-TE9F18I,74.26 MB,1.26 MB,29,IGCC.exe,C:\Program Files\WindowsApps\AppUp.IntelGraphicsExperience_1.100.3370.0_x64__8j3eq9eme6ctt\IGCC.exe,2021-11-10 01:35:32
+DESKTOP-TE9F18I,56.11 MB,3.99 KB,29,EXCEL.EXE,C:\Program Files (x86)\Microsoft Office\Office12\EXCEL.EXE,2021-11-10 01:35:33
+DESKTOP-TE9F18I,12.57 KB,0 bytes,29,ApplicationFrameHost.exe,C:\Windows\System32\ApplicationFrameHost.exe,2021-11-10 01:35:51
+DESKTOP-TE9F18I,611.47 KB,860.92 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:35:53
+DESKTOP-TE9F18I,2.43 MB,275.97 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:35:58
+DESKTOP-TE9F18I,30.75 KB,9.91 KB,29,SystemSettings.exe,C:\Windows\ImmersiveControlPanel\SystemSettings.exe,2021-11-10 01:36:11
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,UserOOBEBroker.exe,C:\Windows\System32\oobe\UserOOBEBroker.exe,2021-11-10 01:36:11
+DESKTOP-TE9F18I,172.35 MB,160 bytes,29,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 01:36:21
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:36:21
+DESKTOP-TE9F18I,6.97 MB,303.11 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:36:22
+DESKTOP-TE9F18I,1.55 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:36:52
+DESKTOP-TE9F18I,81.05 KB,0 bytes,29,SgrmBroker.exe,C:\Windows\System32\SgrmBroker.exe,2021-11-10 01:36:53
+DESKTOP-TE9F18I,99.36 KB,1.44 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:36:53
+DESKTOP-TE9F18I,3.4 GB,2.56 GB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:40:13
+DESKTOP-TE9F18I,585 bytes,0 bytes,29,cmd.exe,C:\Windows\SysWOW64\cmd.exe,2021-11-10 01:53:53
+DESKTOP-TE9F18I,0 bytes,0 bytes,29,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-10 01:53:53
+DESKTOP-TE9F18I,1.27 GB,975.63 MB,29,cscript.exe,C:\Windows\SysWOW64\cscript.exe,2021-11-10 01:53:53
+DESKTOP-TE9F18I,1.02 KB,0 bytes,29,TextInputHost.exe,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInputHost.exe,2021-11-10 04:20:31
+DESKTOP-TE9F18I,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 18:06:47
+DESKTOP-TE9F18I,765.95 KB,208.9 KB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 19:10:16
+DESKTOP-TE9F18I,11.78 GB,195.97 MB,24,MoUsoCoreWorker.exe,C:\Windows\System32\MoUsoCoreWorker.exe,2021-11-14 13:34:54
+DESKTOP-TE9F18I,0 bytes,0 bytes,24,WmiPrvSE.exe,C:\Windows\SysWOW64\wbem\WmiPrvSE.exe,2021-11-14 20:00:31
+DESKTOP-TE9F18I,20.76 MB,3.88 GB,23,orbit.exe,C:\Program Files\Orbit\bin\orbit\orbit.exe,2021-11-15 17:08:36
+DESKTOP-TE9F18I,144 bytes,4 bytes,23,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-11-15 17:08:37
+DESKTOP-TE9F18I,3.25 KB,0 bytes,23,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-15 17:08:37
+DESKTOP-TE9F18I,1.36 GB,33.33 MB,23,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-11-15 17:08:37
+DESKTOP-TE9F18I,0 bytes,0 bytes,21,ctfmon.exe,C:\Windows\System32\ctfmon.exe,2021-11-17 22:00:51
+DESKTOP-TE9F18I,0 bytes,0 bytes,19,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-20 00:51:35
+DESKTOP-TE9F18I,102.36 MB,31.14 MB,19,Microsoft.Photos.exe,C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2021.21090.10008.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe,2021-11-20 03:37:13
+DESKTOP-TE9F18I,412.45 KB,5.33 KB,19,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-20 03:37:13
+DESKTOP-TE9F18I,803.66 MB,86.44 KB,18,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-11-20 06:23:13
+DESKTOP-TE9F18I,1.38 KB,0 bytes,18,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-20 11:39:11
+DESKTOP-TE9F18I,2 KB,529 bytes,17,YourPhone.exe,C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21102.134.0_x64__8wekyb3d8bbwe\YourPhone.exe,2021-11-21 16:58:17
+DESKTOP-TE9F18I,1.54 KB,0 bytes,17,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-21 16:58:18
+DESKTOP-TE9F18I,1.39 MB,1.12 MB,11,StartMenuExperienceHost.exe,C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe,2021-11-27 10:43:37
+DESKTOP-TE9F18I,4.34 MB,917.5 KB,8,dllhost.exe,C:\Windows\System32\dllhost.exe,2021-11-30 19:32:20
+DESKTOP-TE9F18I,20.64 MB,21.2 MB,7,OneDrive.exe,C:\Users\sandisk\AppData\Local\Microsoft\OneDrive\OneDrive.exe,2021-12-01 18:06:06
+DESKTOP-TE9F18I,33.13 MB,23.67 KB,7,NanoNTDevelopment.exe,C:\Program Files (x86)\SanDisk\NanoNTDevelopment\NanoNTDevelopment 12.9\Bin\NanoNTDevelopment.exe,2021-12-01 20:42:36
+DESKTOP-TE9F18I,8.94 KB,6.62 KB,7,PYSCRI~1.EXE,C:\PROGRA~2\SanDisk\NANONT~1\NANONT~1.7\Bin\PYSCRI~1.EXE,2021-12-01 20:42:38
+DESKTOP-TE9F18I,160.58 MB,115.86 MB,5,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-12-03 11:36:13
+DESKTOP-TE9F18I,1.57 KB,96 bytes,5,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-12-03 11:36:13
+DESKTOP-TE9F18I,25.68 MB,55.54 MB,5,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-12-03 11:36:13
+DESKTOP-TE9F18I,27.73 MB,50.5 MB,5,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-12-03 11:36:13
+DESKTOP-TE9F18I,24.83 MB,46.4 MB,5,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-12-03 11:36:13
+DESKTOP-TE9F18I,12.68 MB,23.91 MB,4,svchost.exe,C:\Windows\System32\svchost.exe,2021-12-04 22:19:36
+DESKTOP-TE9F18I,2.95 KB,0 bytes,3,SavUI.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.0.3752.1000.105\Bin\SavUI.exe,2021-12-05 20:00:00
+DESKTOP-TE9F18I,0 bytes,9.99 KB,1,taskhostw.exe,C:\Windows\System32\taskhostw.exe,2021-12-07 23:09:25
+DESKTOP-TE9F18I,2.2 GB,2.29 MB,0,TaniumClient.exe,C:\Program Files (x86)\Tanium\Tanium Client\TaniumClient.exe,2021-12-08 17:45:24
+DESKTOP-TE9F18I,0 bytes,0 bytes,0,conhost.exe,C:\Windows\System32\conhost.exe,2021-12-08 17:45:24
+DESKTOP-TE9F18I,26.71 MB,15.03 KB,0,TaniumClient.exe,C:\Program Files (x86)\Tanium\Tanium Client\TaniumClient.exe,2021-12-08 17:45:41
+DESKTOP-TE9F18I,0 bytes,0 bytes,0,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-12-08 17:52:15
+STBOXX204,-1 bytes,-1 bytes,0,[System Process],,1969-12-31 23:59:59
+STBOXX204,62.78 MB,38.94 GB,29,System,,2021-11-10 01:41:21
+STBOXX204,16.38 KB,2.03 GB,29,Registry,Registry,2021-11-10 01:40:51
+STBOXX204,16.8 KB,78.24 KB,29,smss.exe,C:\Windows\System32\smss.exe,2021-11-10 01:41:21
+STBOXX204,1.57 MB,0 bytes,29,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-10 01:41:25
+STBOXX204,9.73 KB,0 bytes,29,wininit.exe,C:\Windows\System32\wininit.exe,2021-11-10 01:41:26
+STBOXX204,4.01 MB,0 bytes,29,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-10 01:41:26
+STBOXX204,447.79 KB,960 bytes,29,winlogon.exe,C:\Windows\System32\winlogon.exe,2021-11-10 01:41:26
+STBOXX204,11.13 KB,241.75 KB,29,services.exe,C:\Windows\System32\services.exe,2021-11-10 01:41:26
+STBOXX204,4.63 MB,3.84 MB,29,lsass.exe,C:\Windows\System32\lsass.exe,2021-11-10 01:41:26
+STBOXX204,19.09 MB,352.26 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:26
+STBOXX204,0 bytes,0 bytes,29,fontdrvhost.exe,C:\Windows\System32\fontdrvhost.exe,2021-11-10 01:41:26
+STBOXX204,0 bytes,0 bytes,29,fontdrvhost.exe,C:\Windows\System32\fontdrvhost.exe,2021-11-10 01:41:26
+STBOXX204,1.29 MB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:26
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:26
+STBOXX204,71.07 KB,0 bytes,29,dwm.exe,C:\Windows\System32\dwm.exe,2021-11-10 01:41:26
+STBOXX204,1.11 MB,378.65 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:26
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:26
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:26
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:26
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,4.87 GB,6.04 GB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,3.67 MB,59.54 KB,29,NVDisplay.Container.exe,C:\Windows\System32\DriverStore\FileRepository\nvdw.inf_amd64_f07a3f2244a9e817\Display.NvContainer\NVDisplay.Container.exe,2021-11-10 01:41:27
+STBOXX204,1.04 KB,1.44 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,6 bytes,294.59 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,8.19 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,54.19 MB,342.57 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,714 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,5.07 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,10 bytes,2 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,0 bytes,0 bytes,29,Memory Compression,MemCompression,2021-11-10 01:41:27
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,10.48 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,2.95 MB,4.72 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,824 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,158.09 KB,160 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,0 bytes,0 bytes,29,RtkAudioService64.exe,C:\Program Files\Realtek\Audio\HDA\RtkAudioService64.exe,2021-11-10 01:41:27
+STBOXX204,405.37 MB,3.27 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:27
+STBOXX204,0 bytes,0 bytes,29,RAVBg64.exe,C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe,2021-11-10 01:41:28
+STBOXX204,0 bytes,0 bytes,29,RAVBg64.exe,C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe,2021-11-10 01:41:28
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:28
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:28
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:28
+STBOXX204,757.87 KB,392.45 KB,29,spoolsv.exe,C:\Windows\System32\spoolsv.exe,2021-11-10 01:41:28
+STBOXX204,116 bytes,32.93 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:28
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:28
+STBOXX204,288.15 MB,205.64 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:28
+STBOXX204,234.51 MB,90.62 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:28
+STBOXX204,339.86 MB,1.88 GB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:28
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:28
+STBOXX204,1.81 GB,74.41 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:28
+STBOXX204,22.53 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:28
+STBOXX204,4.1 MB,2.26 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:28
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:28
+STBOXX204,1.08 MB,1.98 MB,29,ExpressConnectNetworkService.exe,C:\Program Files\ExpressConnect\ExpressConnectNetworkService.exe,2021-11-10 01:41:28
+STBOXX204,2.54 TB,352.32 MB,29,ExpressConnectAnalyticsService.exe,C:\Program Files\ExpressConnect\ExpressConnectAnalyticsService.exe,2021-11-10 01:41:28
+STBOXX204,1.63 MB,1.18 MB,29,nvWmi64.exe,C:\Windows\System32\DriverStore\FileRepository\nvdw.inf_amd64_f07a3f2244a9e817\NVWMI\nvWmi64.exe,2021-11-10 01:41:28
+STBOXX204,0 bytes,480 bytes,29,WavesSysSvc64.exe,C:\Program Files\Waves\MaxxAudio\WavesSysSvc64.exe,2021-11-10 01:41:28
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:28
+STBOXX204,20.67 MB,4.75 GB,29,orbit.exe,C:\Program Files\Orbit\bin\orbit\orbit.exe,2021-11-10 01:41:28
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:28
+STBOXX204,5.72 MB,8.91 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:28
+STBOXX204,51.03 MB,0 bytes,29,ECDBWMService.exe,C:\Program Files\ExpressConnect\ECDBWMService.exe,2021-11-10 01:41:28
+STBOXX204,116 bytes,160 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:28
+STBOXX204,0 bytes,0 bytes,29,jhi_service.exe,C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_ffc75848a6342fdf\jhi_service.exe,2021-11-10 01:41:28
+STBOXX204,436.72 KB,1.03 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:28
+STBOXX204,316.69 MB,0 bytes,29,ExpressConnectService.exe,C:\Program Files\ExpressConnect\ExpressConnectService.exe,2021-11-10 01:41:28
+STBOXX204,262.15 KB,57.35 KB,29,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-11-10 01:41:29
+STBOXX204,0 bytes,0 bytes,29,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-10 01:41:29
+STBOXX204,20.97 MB,629.72 MB,29,ExpressConnect.exe,C:\Program Files\ExpressConnect\ExpressConnect.exe,2021-11-10 01:41:29
+STBOXX204,805.06 KB,80.27 MB,29,ECDBWM.exe,C:\Program Files\ExpressConnect\ECDBWM.exe,2021-11-10 01:41:29
+STBOXX204,0 bytes,0 bytes,29,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-10 01:41:29
+STBOXX204,0 bytes,0 bytes,29,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-10 01:41:29
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:29
+STBOXX204,0 bytes,0 bytes,29,unsecapp.exe,C:\Windows\System32\wbem\unsecapp.exe,2021-11-10 01:41:29
+STBOXX204,2.44 GB,712.77 KB,29,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-11-10 01:41:29
+STBOXX204,1.62 MB,17.61 MB,29,dllhost.exe,C:\Windows\System32\dllhost.exe,2021-11-10 01:41:30
+STBOXX204,1.68 GB,38.41 MB,29,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-11-10 01:41:30
+STBOXX204,398.52 MB,20.03 MB,29,OfficeClickToRun.exe,C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe,2021-11-10 01:41:31
+STBOXX204,1.41 KB,566 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:40
+STBOXX204,5.39 KB,3.84 KB,29,AppVShNotify.exe,C:\Program Files\Common Files\microsoft shared\ClickToRun\AppVShNotify.exe,2021-11-10 01:41:42
+STBOXX204,2.65 MB,2.52 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:47
+STBOXX204,2.8 MB,134.58 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:51
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:51
+STBOXX204,2.59 MB,275.97 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:41:52
+STBOXX204,29.33 MB,9.83 MB,29,SearchIndexer.exe,C:\Windows\System32\SearchIndexer.exe,2021-11-10 01:42:10
+STBOXX204,328.7 MB,111.11 MB,29,NVDisplay.Container.exe,C:\Windows\System32\DriverStore\FileRepository\nvdw.inf_amd64_f07a3f2244a9e817\Display.NvContainer\NVDisplay.Container.exe,2021-11-10 01:42:18
+STBOXX204,8.8 MB,0 bytes,29,sihost.exe,C:\Windows\System32\sihost.exe,2021-11-10 01:42:19
+STBOXX204,7.25 MB,2 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:42:19
+STBOXX204,1.07 MB,10.63 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:42:19
+STBOXX204,7.74 MB,904.4 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:42:19
+STBOXX204,2.06 MB,557 MB,29,taskhostw.exe,C:\Windows\System32\taskhostw.exe,2021-11-10 01:42:19
+STBOXX204,19.26 KB,150.46 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:42:19
+STBOXX204,5.39 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:42:19
+STBOXX204,26.38 MB,583.95 KB,29,explorer.exe,C:\Windows\explorer.exe,2021-11-10 01:42:19
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:42:19
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:42:23
+STBOXX204,316.68 KB,47.2 KB,29,StartMenuExperienceHost.exe,C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe,2021-11-10 01:42:24
+STBOXX204,50.43 KB,160 bytes,29,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 01:42:24
+STBOXX204,619.12 MB,264.63 MB,29,SearchApp.exe,C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe,2021-11-10 01:42:24
+STBOXX204,9.44 MB,14.94 KB,29,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 01:42:24
+STBOXX204,38.37 KB,0 bytes,29,LockApp.exe,C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe,2021-11-10 01:42:24
+STBOXX204,64.06 KB,248 bytes,29,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 01:42:25
+STBOXX204,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:42:25
+STBOXX204,16.17 MB,17.57 MB,29,dllhost.exe,C:\Windows\System32\dllhost.exe,2021-11-10 01:42:29
+STBOXX204,0 bytes,0 bytes,29,SecurityHealthSystray.exe,C:\Windows\System32\SecurityHealthSystray.exe,2021-11-10 01:42:34
+STBOXX204,7.86 KB,4.1 KB,29,SecurityHealthService.exe,C:\Windows\System32\SecurityHealthService.exe,2021-11-10 01:42:34
+STBOXX204,24.76 MB,0 bytes,29,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 01:42:34
+STBOXX204,0 bytes,0 bytes,29,RtkNGUI64.exe,C:\Program Files\Realtek\Audio\HDA\RtkNGUI64.exe,2021-11-10 01:42:35
+STBOXX204,0 bytes,0 bytes,29,RAVBg64.exe,C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe,2021-11-10 01:42:35
+STBOXX204,0 bytes,0 bytes,29,WavesSvc64.exe,C:\Program Files\Waves\MaxxAudio\WavesSvc64.exe,2021-11-10 01:42:36
+STBOXX204,861.72 MB,654.78 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 01:42:39
+STBOXX204,109.56 KB,33.79 KB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 01:42:39
+STBOXX204,9.05 MB,41.32 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 01:42:39
+STBOXX204,157.04 MB,397.36 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 01:42:39
+STBOXX204,23.94 MB,51.95 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 01:42:40
+STBOXX204,20.48 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:42:40
+STBOXX204,76.53 MB,74.32 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 01:42:41
+STBOXX204,7.1 KB,0 bytes,29,SettingSyncHost.exe,C:\Windows\System32\SettingSyncHost.exe,2021-11-10 01:42:42
+STBOXX204,989.19 KB,32.6 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 01:42:42
+STBOXX204,956.65 KB,35.94 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 01:42:42
+STBOXX204,116 bytes,1.38 MB,29,msdtc.exe,C:\Windows\System32\msdtc.exe,2021-11-10 01:42:46
+STBOXX204,1.1 MB,28.94 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 01:42:57
+STBOXX204,3.48 MB,40.67 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 01:42:57
+STBOXX204,1.31 MB,36.07 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 01:42:57
+STBOXX204,858.19 KB,27.91 MB,29,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 01:42:57
+STBOXX204,3.03 KB,0 bytes,29,ApplicationFrameHost.exe,C:\Windows\System32\ApplicationFrameHost.exe,2021-11-10 01:43:06
+STBOXX204,16.25 KB,24 bytes,29,SystemSettings.exe,C:\Windows\ImmersiveControlPanel\SystemSettings.exe,2021-11-10 01:43:06
+STBOXX204,2.79 MB,472.14 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:43:26
+STBOXX204,13.82 MB,1.62 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:43:27
+STBOXX204,116 bytes,160 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:43:29
+STBOXX204,151.61 MB,9.95 MB,29,Dell.D3.WinSvc.exe,C:\Program Files (x86)\Dell Digital Delivery Services\Dell.D3.WinSvc.exe,2021-11-10 01:43:30
+STBOXX204,849.04 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:43:33
+STBOXX204,13.22 MB,268.28 KB,29,DellOptimizer.exe,C:\Program Files\Dell\DellOptimizer\DellOptimizer.exe,2021-11-10 01:43:33
+STBOXX204,36 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:43:40
+STBOXX204,187 bytes,28.37 KB,29,LMS.exe,C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\LMS\LMS.exe,2021-11-10 01:43:40
+STBOXX204,80.48 KB,0 bytes,29,SgrmBroker.exe,C:\Windows\System32\SgrmBroker.exe,2021-11-10 01:43:40
+STBOXX204,35.08 KB,0 bytes,29,ShellExperienceHost.exe,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe,2021-11-10 01:45:30
+STBOXX204,174 bytes,0 bytes,29,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 01:45:30
+STBOXX204,113.43 KB,0 bytes,28,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-10 06:45:42
+STBOXX204,9.73 KB,0 bytes,28,winlogon.exe,C:\Windows\System32\winlogon.exe,2021-11-10 06:45:42
+STBOXX204,0 bytes,0 bytes,28,fontdrvhost.exe,C:\Windows\System32\fontdrvhost.exe,2021-11-10 06:45:42
+STBOXX204,6.87 MB,1.3 MB,28,LogonUI.exe,C:\Windows\System32\LogonUI.exe,2021-11-10 06:45:42
+STBOXX204,71 KB,0 bytes,28,dwm.exe,C:\Windows\System32\dwm.exe,2021-11-10 06:45:42
+STBOXX204,309.02 MB,87.07 MB,28,NVDisplay.Container.exe,C:\Windows\System32\DriverStore\FileRepository\nvdw.inf_amd64_f07a3f2244a9e817\Display.NvContainer\NVDisplay.Container.exe,2021-11-10 06:45:42
+STBOXX204,7.95 KB,568 bytes,28,rdpclip.exe,C:\Windows\System32\rdpclip.exe,2021-11-10 06:45:43
+STBOXX204,4.14 KB,2.17 MB,28,nvWmi64.exe,C:\Windows\System32\DriverStore\FileRepository\nvdw.inf_amd64_f07a3f2244a9e817\NVWMI\nvWmi64.exe,2021-11-10 06:45:43
+STBOXX204,831.45 KB,27.23 MB,28,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 06:45:45
+STBOXX204,6.48 MB,53.37 MB,28,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-11-10 06:45:45
+STBOXX204,0 bytes,0 bytes,28,ctfmon.exe,C:\Windows\System32\ctfmon.exe,2021-11-10 06:45:45
+STBOXX204,36.3 KB,0 bytes,28,TextInputHost.exe,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInputHost.exe,2021-11-10 06:45:46
+STBOXX204,15.56 MB,3.07 MB,28,Spotfire.Dxp.exe,C:\Users\Sandisk\AppData\Local\TIBCO\Spotfire Desktop\11.3.0\Spotfire.Dxp.exe,2021-11-10 06:46:04
+STBOXX204,16.45 GB,7.94 GB,28,Spotfire.Dxp.Cef.SubProcess.exe,C:\Users\Sandisk\AppData\Local\TIBCO\Spotfire Desktop\11.3.0\Modules\Spotfire Web Browser_64_50.0.15913.3575\Spotfire.Dxp.Cef.SubProcess.exe,2021-11-10 06:46:14
+STBOXX204,896.31 KB,6.85 MB,28,Spotfire.Dxp.Cef.SubProcess.exe,C:\Users\Sandisk\AppData\Local\TIBCO\Spotfire Desktop\11.3.0\Modules\Spotfire Web Browser_64_50.0.15913.3575\Spotfire.Dxp.Cef.SubProcess.exe,2021-11-10 06:46:15
+STBOXX204,74.39 KB,19.52 KB,28,Spotfire.Dxp.Cef.SubProcess.exe,C:\Users\Sandisk\AppData\Local\TIBCO\Spotfire Desktop\11.3.0\Modules\Spotfire Web Browser_64_50.0.15913.3575\Spotfire.Dxp.Cef.SubProcess.exe,2021-11-10 06:46:23
+STBOXX204,7.95 GB,16.45 GB,28,Spotfire.Dxp.Cef.SubProcess.exe,C:\Users\Sandisk\AppData\Local\TIBCO\Spotfire Desktop\11.3.0\Modules\Spotfire Web Browser_64_50.0.15913.3575\Spotfire.Dxp.Cef.SubProcess.exe,2021-11-10 06:46:23
+STBOXX204,142.38 KB,3 MB,28,Spotfire.Dxp.Cef.SubProcess.exe,C:\Users\Sandisk\AppData\Local\TIBCO\Spotfire Desktop\11.3.0\Modules\Spotfire Web Browser_64_50.0.15913.3575\Spotfire.Dxp.Cef.SubProcess.exe,2021-11-10 06:46:23
+STBOXX204,67.69 KB,9.02 KB,28,Spotfire.Dxp.Cef.SubProcess.exe,C:\Users\Sandisk\AppData\Local\TIBCO\Spotfire Desktop\11.3.0\Modules\Spotfire Web Browser_64_50.0.15913.3575\Spotfire.Dxp.Cef.SubProcess.exe,2021-11-10 06:46:24
+STBOXX204,565.25 KB,139.26 KB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 09:41:28
+STBOXX204,34.01 KB,140 bytes,28,LogonUI.exe,C:\Windows\System32\LogonUI.exe,2021-11-10 14:19:36
+STBOXX204,385.13 KB,1.13 MB,27,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 09:41:38
+STBOXX204,8.27 GB,118.31 MB,27,MoUsoCoreWorker.exe,C:\Windows\System32\MoUsoCoreWorker.exe,2021-11-11 13:41:28
+STBOXX204,79.88 MB,61.26 MB,21,OneDrive.exe,C:\Program Files\Microsoft OneDrive\OneDrive.exe,2021-11-18 01:42:53
+STBOXX204,2.9 GB,36.13 MB,20,SupportAssistAgent.exe,C:\Program Files\Dell\SupportAssistAgent\bin\SupportAssistAgent.exe,2021-11-19 02:51:48
+STBOXX204,149.86 MB,5.35 MB,20,ServiceShell.exe,C:\Program Files (x86)\Dell\UpdateService\ServiceShell.exe,2021-11-19 02:51:49
+STBOXX204,126.31 MB,18.81 KB,20,DDVRulesProcessor.exe,C:\Program Files\Dell\DellDataVault\DDVRulesProcessor.exe,2021-11-19 02:52:17
+STBOXX204,54.56 GB,164.61 MB,20,DDVDataCollector.exe,C:\Program Files\Dell\DellDataVault\DDVDataCollector.exe,2021-11-19 02:52:17
+STBOXX204,45 bytes,1.3 KB,20,DDVCollectorSvcApi.exe,C:\Program Files\Dell\DellDataVault\DDVCollectorSvcApi.exe,2021-11-19 02:52:17
+STBOXX204,308.32 GB,234.15 MB,20,Dsapi.exe,C:\Program Files\Dell\SupportAssistAgent\PCD\SupportAssist\Dsapi.exe,2021-11-19 02:52:21
+STBOXX204,65.3 MB,15.21 MB,18,Microsoft.Photos.exe,C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2021.21090.10008.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe,2021-11-20 07:19:42
+STBOXX204,328.72 KB,248 bytes,18,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-20 07:19:42
+STBOXX204,0 bytes,0 bytes,15,UserOOBEBroker.exe,C:\Windows\System32\oobe\UserOOBEBroker.exe,2021-11-23 19:32:59
+STBOXX204,784.89 KB,21.63 KB,13,TelemetryUtility.exe,C:\Program Files\Dell\SARemediation\audit\TelemetryUtility.exe,2021-11-25 19:22:44
+STBOXX204,19.45 GB,1.96 GB,2,MsMpEng.exe,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2111.5-0\MsMpEng.exe,2021-12-07 01:52:06
+STBOXX204,0 bytes,0 bytes,2,NisSrv.exe,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2111.5-0\NisSrv.exe,2021-12-07 01:52:12
+STBOXX204,4.36 KB,160 bytes,0,svchost.exe,C:\Windows\System32\svchost.exe,2021-12-08 09:41:38
+STBOXX204,93.35 MB,62.25 MB,0,svchost.exe,C:\Windows\System32\svchost.exe,2021-12-08 12:04:25
+STBOXX204,8.44 KB,8 bytes,0,YourPhone.exe,C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21111.123.0_x64__8wekyb3d8bbwe\YourPhone.exe,2021-12-08 14:20:22
+STBOXX204,0 bytes,0 bytes,0,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-12-08 14:20:22
+STBOXX204,0 bytes,0 bytes,0,taskhostw.exe,C:\Windows\System32\taskhostw.exe,2021-12-08 17:41:38
+STBOXX204,0 bytes,0 bytes,0,svchost.exe,C:\Windows\System32\svchost.exe,2021-12-08 17:48:24
+STBOXX204,1.28 MB,1.03 KB,0,svchost.exe,C:\Windows\System32\svchost.exe,2021-12-08 17:48:24
+STBOXX204,952 bytes,588 bytes,0,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-12-08 17:52:40
+STBOXX60,-1 bytes,-1 bytes,0,[System Process],,1969-12-31 23:59:59
+STBOXX60,103.2 MB,26.45 GB,28,System,,2021-11-11 02:03:46
+STBOXX60,2.05 KB,2.06 GB,28,Registry,Registry,2021-11-11 02:03:01
+STBOXX60,13.22 KB,84.2 KB,28,smss.exe,C:\Windows\System32\smss.exe,2021-11-11 02:03:46
+STBOXX60,490.59 KB,0 bytes,28,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-11 02:03:56
+STBOXX60,9.73 KB,0 bytes,28,wininit.exe,C:\Windows\System32\wininit.exe,2021-11-11 02:03:57
+STBOXX60,89.87 MB,0 bytes,28,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-11 02:03:57
+STBOXX60,3.89 KB,127.68 KB,28,services.exe,C:\Windows\System32\services.exe,2021-11-11 02:03:58
+STBOXX60,22.57 MB,6.37 MB,28,lsass.exe,C:\Windows\System32\lsass.exe,2021-11-11 02:03:58
+STBOXX60,277.6 KB,6.72 KB,28,winlogon.exe,C:\Windows\System32\winlogon.exe,2021-11-11 02:03:58
+STBOXX60,462.48 MB,16.54 MB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:58
+STBOXX60,0 bytes,0 bytes,28,fontdrvhost.exe,C:\Windows\System32\fontdrvhost.exe,2021-11-11 02:03:58
+STBOXX60,0 bytes,0 bytes,28,fontdrvhost.exe,C:\Windows\System32\fontdrvhost.exe,2021-11-11 02:03:58
+STBOXX60,0 bytes,0 bytes,28,WUDFHost.exe,C:\Windows\System32\WUDFHost.exe,2021-11-11 02:03:58
+STBOXX60,269.31 KB,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:58
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:58
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:58
+STBOXX60,71.06 KB,0 bytes,28,dwm.exe,C:\Windows\System32\dwm.exe,2021-11-11 02:03:58
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:58
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:58
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:58
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:58
+STBOXX60,5.26 GB,3.19 GB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:58
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:58
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:58
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:58
+STBOXX60,3.14 MB,38.84 KB,28,NVDisplay.Container.exe,C:\Windows\System32\DriverStore\FileRepository\nvdw.inf_amd64_df110877f4288951\Display.NvContainer\NVDisplay.Container.exe,2021-11-11 02:03:58
+STBOXX60,6 bytes,375.99 MB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:58
+STBOXX60,1.28 KB,1.76 KB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:59
+STBOXX60,1.02 KB,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:59
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:59
+STBOXX60,46.68 MB,197.68 MB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:59
+STBOXX60,714 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:59
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:59
+STBOXX60,0 bytes,0 bytes,28,Memory Compression,MemCompression,2021-11-11 02:03:59
+STBOXX60,3.62 KB,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:59
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:59
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:59
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:59
+STBOXX60,6.48 KB,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:59
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:59
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:59
+STBOXX60,4.58 MB,9.06 MB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:59
+STBOXX60,1.26 KB,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:59
+STBOXX60,158.09 KB,160 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:59
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:59
+STBOXX60,0 bytes,0 bytes,28,RtkAudioService64.exe,C:\Program Files\Realtek\Audio\HDA\RtkAudioService64.exe,2021-11-11 02:03:59
+STBOXX60,1.68 GB,1.33 MB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:03:59
+STBOXX60,0 bytes,0 bytes,28,RAVBg64.exe,C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,0 bytes,28,RAVBg64.exe,C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,178.65 KB,160 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,160.25 MB,8 MB,28,spoolsv.exe,C:\Windows\System32\spoolsv.exe,2021-11-11 02:04:00
+STBOXX60,116 bytes,32.93 KB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,814.27 KB,592.09 KB,28,nvWmi64.exe,C:\Windows\System32\DriverStore\FileRepository\nvdw.inf_amd64_df110877f4288951\NVWMI\nvWmi64.exe,2021-11-11 02:04:00
+STBOXX60,97.4 MB,94.37 MB,28,LegacyDiscoveryService.exe,C:\Program Files\Keysight\IO Libraries Suite\LegacyDiscoveryService.exe,2021-11-11 02:04:00
+STBOXX60,116 bytes,160 bytes,28,mDNSResponder.exe,C:\Program Files\Bonjour\mDNSResponder.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,0 bytes,28,LxiMdnsResponder.exe,C:\Program Files\Keysight\IO Libraries Suite\LxiMdnsResponder.exe,2021-11-11 02:04:00
+STBOXX60,67.85 MB,6.14 MB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,457.07 KB,2.22 MB,28,IOLibrariesService.exe,C:\Program Files\Keysight\IO Libraries Suite\IOLibrariesService.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,1.91 GB,74.93 MB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,288.57 MB,203.24 MB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,0 bytes,28,dpoMonitorSvc.exe,C:\Program Files\Dell\PPO\dpoMonitorSvc.exe,2021-11-11 02:04:00
+STBOXX60,339.66 MB,3.86 GB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,191.71 MB,194.53 MB,28,KeysightCommunicationsFabric.exe,C:\Program Files (x86)\Keysight\Communications\Fabric\KeysightCommunicationsFabric.exe,2021-11-11 02:04:00
+STBOXX60,163.51 KB,0 bytes,28,dpoTelemetrySvc.exe,C:\Program Files\Dell\PPO\Telemetry\dpoTelemetrySvc.exe,2021-11-11 02:04:00
+STBOXX60,6.58 MB,1.96 KB,28,conveyor-svc.exe,C:\Program Files\MakerBot\MakerWare\conveyor-svc.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,6.5 MB,1 KB,28,poaService.exe,C:\Program Files\Dell\PPO\poaService.exe,2021-11-11 02:04:00
+STBOXX60,684 bytes,0 bytes,28,poaSmSrv.exe,C:\Program Files\Dell\PPO\poaSmSrv.exe,2021-11-11 02:04:00
+STBOXX60,22.53 KB,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,28.02 KB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,3.01 MB,2.08 MB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,0 bytes,28,poaTaServ.exe,C:\Program Files\Dell\PPO\poaTaServ.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,480 bytes,28,WavesSysSvc64.exe,C:\Program Files\Waves\MaxxAudio\WavesSysSvc64.exe,2021-11-11 02:04:00
+STBOXX60,175.79 GB,38.14 GB,28,MsMpEng.exe,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2110.6-0\MsMpEng.exe,2021-11-11 02:04:00
+STBOXX60,20.67 MB,4.66 GB,28,orbit.exe,C:\Program Files\Orbit\bin\orbit\orbit.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,1.48 MB,11.22 KB,28,TeamViewer_Service.exe,C:\Program Files (x86)\TeamViewer\TeamViewer_Service.exe,2021-11-11 02:04:00
+STBOXX60,5.7 MB,9.02 MB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,116 bytes,160 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,0 bytes,28,jhi_service.exe,C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_ffc75848a6342fdf\jhi_service.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,0 bytes,28,dasHost.exe,C:\Windows\System32\dasHost.exe,2021-11-11 02:04:00
+STBOXX60,3.48 KB,4.8 KB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,0 bytes,28,unsecapp.exe,C:\Windows\System32\wbem\unsecapp.exe,2021-11-11 02:04:00
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:00
+STBOXX60,62.28 KB,0 bytes,28,LegacyIOLibrariesService.exe,C:\Program Files\Keysight\IO Libraries Suite\LegacyIOLibrariesService.exe,2021-11-11 02:04:00
+STBOXX60,238.24 MB,246.47 MB,28,ConnectionExpert.Server.Host.exe,C:\Program Files\Keysight\IO Libraries Suite\ConnectionExpert.Server.Host.exe,2021-11-11 02:04:00
+STBOXX60,2.49 GB,267.38 KB,28,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-11-11 02:04:00
+STBOXX60,262.15 KB,57.35 KB,28,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-11-11 02:04:01
+STBOXX60,0 bytes,0 bytes,28,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-11 02:04:01
+STBOXX60,1.63 GB,39.69 MB,28,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-11-11 02:04:01
+STBOXX60,605.18 KB,58.26 MB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:02
+STBOXX60,180.36 KB,1.08 MB,28,IolsNkoServer.exe,C:\Program Files\Keysight\IO Libraries Suite\IolsNkoServer.exe,2021-11-11 02:04:03
+STBOXX60,2.8 MB,157.18 MB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:03
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:03
+STBOXX60,66.24 KB,5.99 KB,28,iproc488.exe,C:\Program Files\Keysight\IO Libraries Suite\bin\iproc488.exe,2021-11-11 02:04:04
+STBOXX60,180.7 KB,3.75 KB,28,iproc82357.exe,C:\Program Files\Keysight\IO Libraries Suite\bin\iproc82357.exe,2021-11-11 02:04:04
+STBOXX60,20 bytes,169 bytes,28,iproc389.exe,C:\Program Files\Keysight\IO Libraries Suite\bin\iproc389.exe,2021-11-11 02:04:04
+STBOXX60,118.72 KB,3.34 MB,28,IolsPXIResourceManager.exe,C:\Program Files (x86)\Keysight\IO Libraries Suite\IolsPXIResourceManager.exe,2021-11-11 02:04:06
+STBOXX60,840.88 KB,521.18 KB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:20
+STBOXX60,8.46 GB,16.43 GB,28,NVDisplay.Container.exe,C:\Windows\System32\DriverStore\FileRepository\nvdw.inf_amd64_df110877f4288951\Display.NvContainer\NVDisplay.Container.exe,2021-11-11 02:04:48
+STBOXX60,137.88 KB,2.19 MB,28,nvWmi64.exe,C:\Windows\System32\DriverStore\FileRepository\nvdw.inf_amd64_df110877f4288951\NVWMI\nvWmi64.exe,2021-11-11 02:04:48
+STBOXX60,1.41 MB,0 bytes,28,sihost.exe,C:\Windows\System32\sihost.exe,2021-11-11 02:04:49
+STBOXX60,38.03 MB,233.15 MB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:49
+STBOXX60,11.31 MB,226.73 MB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:49
+STBOXX60,6.45 MB,232.89 MB,28,taskhostw.exe,C:\Windows\System32\taskhostw.exe,2021-11-11 02:04:49
+STBOXX60,502.64 KB,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:49
+STBOXX60,5.39 KB,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:49
+STBOXX60,32.56 KB,0 bytes,28,ctfmon.exe,C:\Windows\System32\ctfmon.exe,2021-11-11 02:04:49
+STBOXX60,33.92 KB,301.42 KB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:49
+STBOXX60,285.83 KB,143.06 KB,28,GoogleCrashHandler.exe,C:\Program Files (x86)\Google\Update\1.3.36.112\GoogleCrashHandler.exe,2021-11-11 02:04:49
+STBOXX60,9.51 KB,4.96 KB,28,GoogleCrashHandler64.exe,C:\Program Files (x86)\Google\Update\1.3.36.112\GoogleCrashHandler64.exe,2021-11-11 02:04:49
+STBOXX60,457.51 MB,34.27 MB,28,explorer.exe,C:\Windows\explorer.exe,2021-11-11 02:04:52
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:52
+STBOXX60,120.57 MB,76.23 MB,28,SearchIndexer.exe,C:\Windows\System32\SearchIndexer.exe,2021-11-11 02:04:52
+STBOXX60,1.14 KB,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:04:56
+STBOXX60,1.33 MB,803.11 KB,28,StartMenuExperienceHost.exe,C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe,2021-11-11 02:04:57
+STBOXX60,250.02 KB,160 bytes,28,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-11 02:04:57
+STBOXX60,616.23 MB,308.9 MB,28,SearchApp.exe,C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe,2021-11-11 02:04:58
+STBOXX60,301.36 MB,480 bytes,28,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-11 02:04:58
+STBOXX60,20.56 MB,35.22 MB,28,dllhost.exe,C:\Windows\System32\dllhost.exe,2021-11-11 02:04:58
+STBOXX60,38.63 KB,76 bytes,28,LockApp.exe,C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe,2021-11-11 02:05:07
+STBOXX60,165.27 KB,248 bytes,28,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-11 02:05:07
+STBOXX60,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:05:08
+STBOXX60,1.88 MB,50.2 KB,28,RemotePCUIU.exe,C:\Program Files (x86)\RemotePC\RemotePCUIU.exe,2021-11-11 02:05:19
+STBOXX60,17.84 MB,35.63 KB,28,RpcDND_Console.exe,C:\Program Files (x86)\RemotePC\RpcDND_Console.exe,2021-11-11 02:05:19
+STBOXX60,1.81 MB,428.54 KB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:05:34
+STBOXX60,116 bytes,160 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:06:01
+STBOXX60,191.67 MB,5.35 KB,28,DDVRulesProcessor.exe,C:\Program Files\Dell\DellDataVault\DDVRulesProcessor.exe,2021-11-11 02:06:01
+STBOXX60,2.65 MB,411.53 KB,28,ServiceShell.exe,C:\Program Files (x86)\Dell\UpdateService\ServiceShell.exe,2021-11-11 02:06:01
+STBOXX60,116 bytes,561.31 KB,28,msdtc.exe,C:\Windows\System32\msdtc.exe,2021-11-11 02:06:02
+STBOXX60,393.44 KB,59.91 KB,28,DeliveryService.exe,C:\Program Files (x86)\Dell Digital Delivery\DeliveryService.exe,2021-11-11 02:06:03
+STBOXX60,24 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:06:03
+STBOXX60,40.92 GB,40.28 GB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:06:04
+STBOXX60,819.21 MB,559.92 MB,28,IAStorDataMgrSvc.exe,C:\Program Files (x86)\Intel\Intel(R) Rapid Storage Technology enterprise\IAStorDataMgrSvc.exe,2021-11-11 02:06:04
+STBOXX60,1.33 MB,33.15 KB,28,LMS.exe,C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\LMS\LMS.exe,2021-11-11 02:06:04
+STBOXX60,80.48 KB,0 bytes,28,SgrmBroker.exe,C:\Windows\System32\SgrmBroker.exe,2021-11-11 02:06:04
+STBOXX60,7.26 MB,937.46 KB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:06:05
+STBOXX60,57.85 GB,210.93 MB,28,DDVDataCollector.exe,C:\Program Files\Dell\DellDataVault\DDVDataCollector.exe,2021-11-11 02:06:05
+STBOXX60,0 bytes,0 bytes,28,DDVCollectorSvcApi.exe,C:\Program Files\Dell\DellDataVault\DDVCollectorSvcApi.exe,2021-11-11 02:06:05
+STBOXX60,855.72 KB,0 bytes,28,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-11-11 02:06:19
+STBOXX60,16.38 MB,16.38 MB,28,nvapiw.exe,C:\Program Files\Dell\DellDataVault\nvapiw.exe,2021-11-11 02:06:27
+STBOXX60,1.04 MB,1.07 MB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 02:11:59
+STBOXX60,6.02 MB,606.24 KB,27,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 16:33:21
+STBOXX60,376.87 MB,175.53 MB,27,SettingSyncHost.exe,C:\Windows\System32\SettingSyncHost.exe,2021-11-11 16:33:21
+STBOXX60,1.18 MB,8 bytes,27,ShellExperienceHost.exe,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe,2021-11-11 16:33:22
+STBOXX60,401.03 MB,41.28 KB,27,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-11 16:33:22
+STBOXX60,536.77 KB,0 bytes,27,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-11 16:33:22
+STBOXX60,37.16 KB,8 bytes,27,TextInputHost.exe,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInputHost.exe,2021-11-11 16:33:25
+STBOXX60,118.04 GB,34.93 GB,27,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,2021-11-11 16:33:29
+STBOXX60,880.47 KB,16.81 KB,27,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,2021-11-11 16:33:29
+STBOXX60,18.52 GB,9.8 GB,27,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,2021-11-11 16:33:30
+STBOXX60,5.5 GB,131.94 GB,27,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,2021-11-11 16:33:30
+STBOXX60,348.12 MB,195.24 MB,27,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,2021-11-11 16:33:30
+STBOXX60,0 bytes,0 bytes,27,SecurityHealthSystray.exe,C:\Windows\System32\SecurityHealthSystray.exe,2021-11-11 16:33:31
+STBOXX60,846.72 KB,4.1 KB,27,SecurityHealthService.exe,C:\Windows\System32\SecurityHealthService.exe,2021-11-11 16:33:31
+STBOXX60,0 bytes,0 bytes,27,RtkNGUI64.exe,C:\Program Files\Realtek\Audio\HDA\RtkNGUI64.exe,2021-11-11 16:33:32
+STBOXX60,0 bytes,0 bytes,27,RAVBg64.exe,C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe,2021-11-11 16:33:32
+STBOXX60,560.14 MB,667 bytes,27,IAStorIcon.exe,C:\Program Files (x86)\Intel\Intel(R) Rapid Storage Technology enterprise\IAStorIcon.exe,2021-11-11 16:33:33
+STBOXX60,145.47 KB,8 bytes,27,DellPoaEvents.exe,C:\Program Files\Dell\PPO\DellPoaEvents\DellPoaEvents.exe,2021-11-11 16:33:34
+STBOXX60,0 bytes,0 bytes,27,unsecapp.exe,C:\Windows\System32\wbem\unsecapp.exe,2021-11-11 16:33:35
+STBOXX60,10.2 KB,2.14 MB,27,LogiOptions.exe,C:\Program Files\Logitech\LogiOptions\LogiOptions.exe,2021-11-11 16:33:36
+STBOXX60,1.81 MB,8 bytes,27,LogiOverlay.exe,C:\ProgramData\Logishrd\LogiOptions\Software\Current\LogiOverlay.exe,2021-11-11 16:33:36
+STBOXX60,72.08 KB,0 bytes,27,WzPreloader.exe,C:\Program Files\WinZip\WzPreloader.exe,2021-11-11 16:33:37
+STBOXX60,174 bytes,0 bytes,27,FAHWindow64.exe,C:\Program Files\WinZip\FAHWindow64.exe,2021-11-11 16:33:39
+STBOXX60,0 bytes,0 bytes,27,WavesSvc64.exe,C:\Program Files\Waves\MaxxAudio\WavesSvc64.exe,2021-11-11 16:33:40
+STBOXX60,50.65 KB,13.74 KB,27,AppleMobileDeviceProcess.exe,C:\Program Files\WindowsApps\AppleInc.iTunes_12122.2.54019.0_x64__nzyj5cx40ttqa\AMDS64\AppleMobileDeviceProcess.exe,2021-11-11 16:33:42
+STBOXX60,3.58 MB,14.46 MB,27,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,2021-11-11 16:33:58
+STBOXX60,901.12 KB,147.46 KB,27,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 17:03:39
+STBOXX60,0 bytes,0 bytes,27,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 19:30:56
+STBOXX60,2.58 KB,55.92 KB,27,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-11 19:31:57
+STBOXX60,10.45 GB,107.13 MB,26,MoUsoCoreWorker.exe,C:\Windows\System32\MoUsoCoreWorker.exe,2021-11-12 14:04:00
+STBOXX60,57.28 MB,16.79 MB,26,WINWORD.EXE,C:\Program Files (x86)\Microsoft Office\Office12\WINWORD.EXE,2021-11-12 22:45:48
+STBOXX60,40.5 MB,37.83 MB,26,splwow64.exe,C:\Windows\splwow64.exe,2021-11-12 22:45:49
+STBOXX60,512 bytes,0 bytes,25,SDXHelperBgt.exe,C:\Program Files\WindowsApps\Microsoft.Office.Desktop_16051.14527.20276.0_x86__8wekyb3d8bbwe\Office16\SDXHelperBgt.exe,2021-11-13 19:11:06
+STBOXX60,2.58 KB,0 bytes,25,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-13 19:11:06
+STBOXX60,0 bytes,2 bytes,21,cmd.exe,C:\Windows\System32\cmd.exe,2021-11-17 18:19:13
+STBOXX60,7.45 KB,0 bytes,21,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-17 18:19:13
+STBOXX60,0 bytes,0 bytes,20,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-18 19:25:39
+STBOXX60,0 bytes,0 bytes,18,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-20 18:04:37
+STBOXX60,8.95 MB,352.47 KB,18,Video.UI.exe,C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.21092.10731.0_x64__8wekyb3d8bbwe\Video.UI.exe,2021-11-20 20:46:18
+STBOXX60,0 bytes,0 bytes,18,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-20 20:46:18
+STBOXX60,8.04 KB,8 bytes,18,YourPhone.exe,C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21102.134.0_x64__8wekyb3d8bbwe\YourPhone.exe,2021-11-21 02:20:18
+STBOXX60,0 bytes,0 bytes,17,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-21 18:20:19
+STBOXX60,0 bytes,0 bytes,15,NisSrv.exe,C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2110.6-0\NisSrv.exe,2021-11-24 02:14:52
+STBOXX60,1.14 MB,400.19 KB,13,taskhostw.exe,C:\Windows\System32\taskhostw.exe,2021-11-26 03:22:33
+STBOXX60,108 bytes,0 bytes,6,wlanext.exe,C:\Windows\System32\wlanext.exe,2021-12-03 00:10:15
+STBOXX60,0 bytes,0 bytes,6,conhost.exe,C:\Windows\System32\conhost.exe,2021-12-03 00:10:15
+STBOXX60,22.4 KB,0 bytes,5,ApplicationFrameHost.exe,C:\Windows\System32\ApplicationFrameHost.exe,2021-12-03 20:06:34
+STBOXX60,18.66 GB,3.08 GB,5,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,2021-12-03 20:24:46
+STBOXX60,83.91 MB,38.85 MB,2,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,2021-12-06 17:46:15
+STBOXX60,34.66 MB,29.5 MB,2,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,2021-12-06 17:57:58
+STBOXX60,103.62 MB,254.15 MB,2,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,2021-12-06 17:59:40
+STBOXX60,605.04 MB,121.65 MB,2,Microsoft.Photos.exe,C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2021.21090.10008.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe,2021-12-06 18:32:26
+STBOXX60,749.86 KB,8.93 KB,2,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-12-06 18:32:26
+STBOXX60,631.79 MB,209.86 MB,2,mstsc.exe,C:\Windows\System32\mstsc.exe,2021-12-06 19:10:31
+STBOXX60,499.91 KB,1.95 MB,2,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,2021-12-06 19:36:36
+STBOXX60,455.12 KB,1.98 MB,2,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,2021-12-06 19:37:22
+STBOXX60,452.48 KB,1.97 MB,2,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,2021-12-06 19:37:22
+STBOXX60,259.53 KB,1.8 MB,2,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,2021-12-06 19:37:23
+STBOXX60,282 bytes,0 bytes,2,WZUpdateNotifier.exe,C:\Program Files\WinZip\WZUpdateNotifier.exe,2021-12-06 20:07:01
+STBOXX60,298.1 KB,730.91 KB,2,WZUpdateNotifier.exe,C:\Program Files\WinZip\WZUpdateNotifier.exe,2021-12-06 20:07:03
+STBOXX60,1.78 GB,883 bytes,1,RemotePCService.exe,C:\Program Files (x86)\RemotePC\RemotePCService.exe,2021-12-07 18:55:30
+STBOXX60,1.16 MB,128.73 KB,0,LogiOptionsMgr.exe,C:\ProgramData\Logishrd\LogiOptions\Software\Current\LogiOptionsMgr.exe,2021-12-08 16:53:05
+STBOXX60,202.7 KB,30.92 KB,0,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,2021-12-08 17:05:16
+STBOXX60,44.71 KB,10.82 KB,0,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe,2021-12-08 17:05:22
+STBOXX60,0 bytes,0 bytes,0,audiodg.exe,C:\Windows\System32\audiodg.exe,2021-12-08 17:38:07
+STBOXX60,2.74 MB,49.43 KB,0,svchost.exe,C:\Windows\System32\svchost.exe,2021-12-08 17:38:45
+STBOXX60,0 bytes,0 bytes,0,WmiApSrv.exe,C:\Windows\System32\wbem\WmiApSrv.exe,2021-12-08 17:52:23
+STBOXX60,268.78 KB,588 bytes,0,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-12-08 17:52:23
+STBOXX60,0 bytes,0 bytes,0,svchost.exe,C:\Windows\System32\svchost.exe,2021-12-08 17:53:31
+STBOXX60,1.02 KB,0 bytes,0,backgroundTaskHost.exe,C:\Windows\System32\backgroundTaskHost.exe,2021-12-08 17:53:31
+STBOXX60,2.23 MB,1.03 KB,0,svchost.exe,C:\Windows\System32\svchost.exe,2021-12-08 17:53:31
+Showdown,-1 bytes,-1 bytes,0,[System Process],,1969-12-31 23:59:59
+Showdown,10.61 GB,14.55 GB,50,System,,2021-10-20 02:05:17
+Showdown,83.18 KB,20 bytes,50,smss.exe,C:\Windows\System32\smss.exe,2021-10-20 02:05:18
+Showdown,2.19 MB,0 bytes,50,csrss.exe,C:\Windows\System32\csrss.exe,2021-10-20 02:05:22
+Showdown,7.17 KB,0 bytes,50,wininit.exe,C:\Windows\System32\wininit.exe,2021-10-20 02:05:23
+Showdown,89.31 MB,0 bytes,50,csrss.exe,C:\Windows\System32\csrss.exe,2021-10-20 02:05:23
+Showdown,7.05 GB,50.78 MB,50,services.exe,C:\Windows\System32\services.exe,2021-10-20 02:05:23
+Showdown,130.97 MB,200.06 MB,50,lsass.exe,C:\Windows\System32\lsass.exe,2021-10-20 02:05:23
+Showdown,3.15 MB,320 bytes,50,winlogon.exe,C:\Windows\System32\winlogon.exe,2021-10-20 02:05:23
+Showdown,343.04 KB,0 bytes,50,lsm.exe,C:\Windows\System32\lsm.exe,2021-10-20 02:05:23
+Showdown,46.24 GB,0 bytes,50,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 02:05:28
+Showdown,205.36 MB,0 bytes,50,nvvsvc.exe,C:\Windows\System32\nvvsvc.exe,2021-10-20 02:05:29
+Showdown,27.8 KB,0 bytes,50,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 02:05:31
+Showdown,7.78 GB,196.6 MB,50,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 02:05:32
+Showdown,2.12 GB,13.17 GB,50,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 02:05:32
+Showdown,300.35 KB,960 bytes,50,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 02:05:32
+Showdown,33.9 GB,11.46 GB,50,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 02:05:32
+Showdown,250.88 KB,11 bytes,50,stacsv64.exe,C:\Program Files\IDT\WDM\stacsv64.exe,2021-10-20 02:05:32
+Showdown,516.82 MB,273.09 MB,50,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 02:05:33
+Showdown,1.3 MB,0 bytes,50,NvXDSync.exe,C:\Program Files\NVIDIA Corporation\Display\NvXDSync.exe,2021-10-20 02:05:33
+Showdown,1.04 MB,0 bytes,50,nvvsvc.exe,C:\Windows\System32\nvvsvc.exe,2021-10-20 02:05:33
+Showdown,570.9 KB,160 bytes,50,spoolsv.exe,C:\Windows\System32\spoolsv.exe,2021-10-20 02:05:33
+Showdown,171.56 MB,211.69 MB,50,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 02:05:33
+Showdown,1.57 GB,94.77 KB,50,CSFalconService.exe,C:\Program Files\CrowdStrike\CSFalconService.exe,2021-10-20 02:05:33
+Showdown,488.18 KB,2.98 KB,50,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 02:05:34
+Showdown,627.94 KB,1.09 KB,50,HeciServer.exe,C:\Program Files\Intel\iCLS Client\HeciServer.exe,2021-10-20 02:05:34
+Showdown,161.56 KB,0 bytes,50,Jhi_service.exe,C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL\Jhi_service.exe,2021-10-20 02:05:34
+Showdown,22.18 MB,16.64 MB,50,CSFalconContainer.exe,C:\Program Files\CrowdStrike\CSFalconContainer.exe,2021-10-20 02:05:35
+Showdown,95.8 GB,11.56 GB,50,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\12.1.7061.6600.105\Bin\ccSvcHst.exe,2021-10-20 02:05:36
+Showdown,11.3 MB,20.26 MB,50,taskhost.exe,C:\Windows\System32\taskhost.exe,2021-10-20 02:05:37
+Showdown,378.47 KB,1.04 MB,50,nvSCPAPISvr.exe,C:\Program Files (x86)\NVIDIA Corporation\3D Vision\nvSCPAPISvr.exe,2021-10-20 02:05:37
+Showdown,29.85 KB,0 bytes,50,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 02:05:37
+Showdown,29.25 MB,3.93 MB,50,miragent.exe,C:\Program Files (x86)\MANDIANT\MANDIANT Intelligent Response Agent\miragent.exe,2021-10-20 02:05:37
+Showdown,22.1 MB,432.9 KB,50,CSFalconContainer.exe,C:\Program Files\CrowdStrike\CSFalconContainer.exe,2021-10-20 02:05:37
+Showdown,121 KB,0 bytes,50,dwm.exe,C:\Windows\System32\dwm.exe,2021-10-20 02:05:39
+Showdown,1.32 MB,2.72 KB,50,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\12.1.7061.6600.105\Bin\ccSvcHst.exe,2021-10-20 02:05:39
+Showdown,9.92 GB,29.61 MB,50,explorer.exe,C:\Windows\explorer.exe,2021-10-20 02:05:39
+Showdown,7.27 GB,116 bytes,50,TaniumClient.exe,C:\Program Files (x86)\Tanium\Tanium Client\TaniumClient.exe,2021-10-20 02:05:40
+Showdown,492.58 KB,0 bytes,50,sttray64.exe,C:\Program Files\IDT\WDM\sttray64.exe,2021-10-20 02:05:51
+Showdown,17.6 MB,32.46 MB,50,IAStorIcon.exe,C:\Program Files (x86)\Intel\Intel(R) Rapid Storage Technology\IAStorIcon.exe,2021-10-20 02:05:54
+Showdown,305.68 KB,0 bytes,50,concentr.exe,C:\Program Files (x86)\Citrix\ICA Client\concentr.exe,2021-10-20 02:05:57
+Showdown,47.63 KB,0 bytes,50,unsecapp.exe,C:\Windows\System32\wbem\unsecapp.exe,2021-10-20 02:05:58
+Showdown,743.77 KB,0 bytes,50,wfcrun32.exe,C:\Program Files (x86)\Citrix\ICA Client\wfcrun32.exe,2021-10-20 02:05:59
+Showdown,1.07 GB,525.94 MB,50,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-10-20 02:06:06
+Showdown,1.06 MB,0 bytes,50,cmd.exe,C:\Windows\SysWOW64\cmd.exe,2021-10-20 02:07:27
+Showdown,352.57 KB,0 bytes,50,conhost.exe,C:\Windows\System32\conhost.exe,2021-10-20 02:07:27
+Showdown,5.59 GB,1.12 MB,50,cscript.exe,C:\Windows\SysWOW64\cscript.exe,2021-10-20 02:07:27
+Showdown,5.71 GB,19.3 GB,50,SearchIndexer.exe,C:\Windows\System32\SearchIndexer.exe,2021-10-20 02:07:29
+Showdown,27.7 KB,0 bytes,50,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 02:07:30
+Showdown,735.52 MB,53.25 KB,50,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 02:07:30
+Showdown,1.49 GB,1.6 GB,50,CcmExec.exe,C:\Windows\CCM\CcmExec.exe,2021-10-20 02:09:27
+Showdown,2.52 MB,589.93 KB,50,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-10-20 02:09:29
+Showdown,850.61 KB,1.5 KB,50,CmRcService.exe,C:\Windows\CCM\RemCtrl\CmRcService.exe,2021-10-20 02:09:29
+Showdown,33.08 MB,16.99 MB,50,IAStorDataMgrSvc.exe,C:\Program Files (x86)\Intel\Intel(R) Rapid Storage Technology\IAStorDataMgrSvc.exe,2021-10-20 02:09:30
+Showdown,2.63 GB,312.77 KB,50,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-10-20 02:09:31
+Showdown,277.78 KB,18 bytes,50,LMS.exe,C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\LMS\LMS.exe,2021-10-20 02:09:40
+Showdown,1.9 GB,6.19 KB,50,wmpnetwk.exe,C:\Program Files\Windows Media Player\wmpnetwk.exe,2021-10-20 02:09:42
+Showdown,2.44 MB,28 bytes,50,UNS.exe,C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\UNS\UNS.exe,2021-10-20 02:09:47
+Showdown,474.81 KB,0 bytes,50,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-10-20 02:09:59
+Showdown,7.23 MB,13.53 MB,50,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-10-20 02:10:09
+Showdown,845.43 KB,114.02 MB,50,SCNotification.exe,C:\Windows\CCM\SCNotification.exe,2021-10-20 02:10:23
+Showdown,10.83 GB,10.36 GB,50,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 02:10:38
+Showdown,69.5 MB,15.18 MB,49,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-10-21 01:14:19
+Showdown,5.15 MB,0 bytes,49,OSPPSVC.EXE,C:\Program Files\Common Files\Microsoft Shared\OfficeSoftwareProtectionPlatform\OSPPSVC.EXE,2021-10-21 01:14:24
+Showdown,117.36 MB,4.74 MB,49,TrustedInstaller.exe,C:\Windows\servicing\TrustedInstaller.exe,2021-10-21 01:14:26
+Showdown,102.7 MB,3.07 GB,48,NanoNTDevelopment.exe,C:\Program Files (x86)\SanDisk\NanoNTDevelopment\NanoNTDevelopment 12.8\Bin\NanoNTDevelopment.exe,2021-10-21 19:27:26
+Showdown,5.48 MB,6.89 MB,48,PYSCRI~1.EXE,C:\PROGRA~2\SanDisk\NANONT~1\NANONT~1.4\Bin\PYSCRI~1.EXE,2021-10-21 19:27:29
+Showdown,919.16 KB,0 bytes,36,calc.exe,C:\Windows\System32\calc.exe,2021-11-02 06:34:01
+Showdown,2.65 MB,1.47 MB,36,taskhost.exe,C:\Windows\System32\taskhost.exe,2021-11-02 18:41:45
+Showdown,479.78 MB,390.73 MB,36,Spotfire.Dxp.exe,C:\Program Files (x86)\TIBCO\Spotfire\5.5.0\Spotfire.Dxp.exe,2021-11-02 18:53:32
+Showdown,3.02 MB,3.19 MB,36,Spotfire.Dxp.Cef.SubProcess.exe,C:\Users\Sandisk\AppData\Local\TIBCO\Spotfire\5.5.0\Modules\Spotfire Web Browser_23.28.9701.4854\Spotfire.Dxp.Cef.SubProcess.exe,2021-11-02 18:53:46
+Showdown,112.76 MB,89.67 MB,35,Spotfire.Dxp.exe,C:\Program Files (x86)\TIBCO\Spotfire\5.5.0\Spotfire.Dxp.exe,2021-11-03 15:11:29
+Showdown,903.07 KB,662.23 KB,35,Spotfire.Dxp.Cef.SubProcess.exe,C:\Users\Sandisk\AppData\Local\TIBCO\Spotfire\5.5.0\Modules\Spotfire Web Browser_23.28.9701.4854\Spotfire.Dxp.Cef.SubProcess.exe,2021-11-03 15:11:35
+Showdown,546.24 KB,180.7 KB,30,Spotfire.Dxp.Cef.SubProcess.exe,C:\Users\Sandisk\AppData\Local\TIBCO\Spotfire\5.5.0\Modules\Spotfire Web Browser_23.28.9701.4854\Spotfire.Dxp.Cef.SubProcess.exe,2021-11-08 20:01:53
+Showdown,507.27 KB,161.02 KB,26,Spotfire.Dxp.Cef.SubProcess.exe,C:\Users\Sandisk\AppData\Local\TIBCO\Spotfire\5.5.0\Modules\Spotfire Web Browser_23.28.9701.4854\Spotfire.Dxp.Cef.SubProcess.exe,2021-11-12 23:52:16
+Showdown,135.41 MB,3.88 GB,23,orbit.exe,C:\Program Files\Orbit\bin\orbit\orbit.exe,2021-11-15 17:13:55
+Showdown,123.89 MB,4 bytes,23,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-11-15 17:13:59
+Showdown,401.19 KB,0 bytes,23,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-15 17:14:00
+Showdown,1.44 GB,57.94 MB,23,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-11-15 17:14:02
+Showdown,4.98 MB,1.2 KB,22,Composer.exe,C:\Program Files\Watlow\Composer\Composer.exe,2021-11-17 00:12:26
+Showdown,919.4 MB,29.82 KB,7,LogConv2.9.exe,C:\Users\Sandisk\Desktop\LogConv2.9.exe,2021-12-01 07:24:30
+Showdown,127.46 KB,0 bytes,6,csrss.exe,C:\Windows\System32\csrss.exe,2021-12-03 02:50:51
+Showdown,639.85 KB,160 bytes,6,winlogon.exe,C:\Windows\System32\winlogon.exe,2021-12-03 02:50:51
+Showdown,136.03 KB,320 bytes,6,LogonUI.exe,C:\Windows\System32\LogonUI.exe,2021-12-03 02:50:52
+Showdown,1.26 MB,0 bytes,6,NvXDSync.exe,C:\Program Files\NVIDIA Corporation\Display\NvXDSync.exe,2021-12-03 02:50:52
+Showdown,739.54 KB,477.09 KB,6,rdpclip.exe,C:\Windows\System32\rdpclip.exe,2021-12-03 02:50:53
+Showdown,1.03 MB,0 bytes,6,nvvsvc.exe,C:\Windows\System32\nvvsvc.exe,2021-12-03 02:50:55
+Showdown,1.73 GB,38.42 MB,3,FBA8.57.exe,C:\Users\Sandisk\Documents\Nano_NT_Testing\Tools\FBA8.57\FBA8.57\FBA8.57.exe,2021-12-05 07:53:47
+Showdown,50.43 MB,15.75 MB,0,EXCEL.EXE,C:\Program Files (x86)\Microsoft Office\Office14\EXCEL.EXE,2021-12-08 09:36:22
+Showdown,2.47 GB,28.94 MB,0,TaniumClient.exe,C:\Program Files (x86)\Tanium\Tanium Client\TaniumClient.exe,2021-12-08 16:38:54
+Showdown,352.5 KB,0 bytes,0,conhost.exe,C:\Windows\System32\conhost.exe,2021-12-08 16:38:54
+Showdown,111.01 MB,156.49 KB,0,TaniumClient.exe,C:\Program Files (x86)\Tanium\Tanium Client\TaniumClient.exe,2021-12-08 17:31:09
+Showdown,523.16 KB,0 bytes,0,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-12-08 17:51:04
+DESKTOP-AMGP34B,-1 bytes,-1 bytes,0,[System Process],,1969-12-31 23:59:59
+DESKTOP-AMGP34B,660.08 MB,13.09 GB,29,System,,2021-11-10 01:44:06
+DESKTOP-AMGP34B,2.05 KB,1.49 GB,29,Registry,Registry,2021-11-10 01:44:03
+DESKTOP-AMGP34B,15.33 KB,78.22 KB,29,smss.exe,C:\Windows\System32\smss.exe,2021-11-10 01:44:06
+DESKTOP-AMGP34B,2.4 MB,0 bytes,29,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-10 01:44:10
+DESKTOP-AMGP34B,9.73 KB,0 bytes,29,wininit.exe,C:\Windows\System32\wininit.exe,2021-11-10 01:44:10
+DESKTOP-AMGP34B,85.18 MB,150.01 KB,29,services.exe,C:\Windows\System32\services.exe,2021-11-10 01:44:10
+DESKTOP-AMGP34B,50.32 MB,67.65 MB,29,lsass.exe,C:\Windows\System32\lsass.exe,2021-11-10 01:44:10
+DESKTOP-AMGP34B,292.17 MB,1.2 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:11
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,fontdrvhost.exe,C:\Windows\System32\fontdrvhost.exe,2021-11-10 01:44:11
+DESKTOP-AMGP34B,77.31 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:11
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:11
+DESKTOP-AMGP34B,905.1 KB,519.88 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:12
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:12
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:12
+DESKTOP-AMGP34B,1.33 KB,0 bytes,29,IntelCpHDCPSvc.exe,C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_2cec8fd58a80e6ea\IntelCpHDCPSvc.exe,2021-11-10 01:44:12
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:12
+DESKTOP-AMGP34B,1.7 GB,2.69 GB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:12
+DESKTOP-AMGP34B,1.45 KB,124 bytes,29,IntelCpHeciSvc.exe,C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_2cec8fd58a80e6ea\IntelCpHeciSvc.exe,2021-11-10 01:44:13
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:13
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:13
+DESKTOP-AMGP34B,55.06 MB,414.15 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:13
+DESKTOP-AMGP34B,1.02 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:13
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:13
+DESKTOP-AMGP34B,714 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:13
+DESKTOP-AMGP34B,1.28 KB,1.76 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:13
+DESKTOP-AMGP34B,95.46 MB,382.91 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:13
+DESKTOP-AMGP34B,19.55 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:13
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,Memory Compression,MemCompression,2021-11-10 01:44:13
+DESKTOP-AMGP34B,102.47 KB,0 bytes,29,igfxCUIService.exe,C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_2cec8fd58a80e6ea\igfxCUIService.exe,2021-11-10 01:44:13
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:13
+DESKTOP-AMGP34B,0 bytes,4.22 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:13
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:13
+DESKTOP-AMGP34B,121.94 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,1.65 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,30 bytes,6 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,46.1 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,495.54 KB,42.62 KB,29,spoolsv.exe,C:\Windows\System32\spoolsv.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,117.18 KB,32.93 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,10.38 MB,19.88 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,158.09 KB,160 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,1.46 GB,1.01 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,199.68 MB,103.89 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,88.82 MB,329.41 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,319.7 MB,2.97 GB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,27.14 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,1.08 MB,2.06 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,3.46 GB,1.22 GB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:14
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:15
+DESKTOP-AMGP34B,415.71 GB,12.84 GB,29,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.0.3752.1000.105\Bin\ccSvcHst.exe,2021-11-10 01:44:15
+DESKTOP-AMGP34B,118.47 KB,7.77 KB,29,SISIPSService.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.0.3752.1000.105\SAEP\IPS\bin\SISIPSService.exe,2021-11-10 01:44:15
+DESKTOP-AMGP34B,149.99 KB,297 bytes,29,sisipsutil.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.0.3752.1000.105\SAEP\IPS\bin\sisipsutil.exe,2021-11-10 01:44:15
+DESKTOP-AMGP34B,893.06 KB,138.87 KB,29,SISIDSService.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.0.3752.1000.105\SAEP\IDS\bin\SISIDSService.exe,2021-11-10 01:44:15
+DESKTOP-AMGP34B,24.84 KB,232 bytes,29,TaniumClient.exe,C:\Program Files (x86)\Tanium\Tanium Client\TaniumClient.exe,2021-11-10 01:44:15
+DESKTOP-AMGP34B,59.39 MB,79.33 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:15
+DESKTOP-AMGP34B,116 bytes,160 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:15
+DESKTOP-AMGP34B,3.6 KB,4.96 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:15
+DESKTOP-AMGP34B,609 bytes,0 bytes,29,jhi_service.exe,C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_ffc75848a6342fdf\jhi_service.exe,2021-11-10 01:44:16
+DESKTOP-AMGP34B,276.59 MB,100.24 MB,29,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-11-10 01:44:29
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:44:49
+DESKTOP-AMGP34B,296.13 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:45:00
+DESKTOP-AMGP34B,634.53 KB,6.44 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:45:01
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:45:12
+DESKTOP-AMGP34B,4.33 KB,3.68 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:46:26
+DESKTOP-AMGP34B,2.6 KB,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:46:26
+DESKTOP-AMGP34B,81.05 KB,0 bytes,29,SgrmBroker.exe,C:\Windows\System32\SgrmBroker.exe,2021-11-10 01:46:26
+DESKTOP-AMGP34B,2.27 MB,259.58 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:46:27
+DESKTOP-AMGP34B,98.78 KB,640 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:46:27
+DESKTOP-AMGP34B,109.69 MB,68.48 MB,29,SearchIndexer.exe,C:\Windows\System32\SearchIndexer.exe,2021-11-10 01:46:27
+DESKTOP-AMGP34B,610.36 KB,1.76 MB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:53:14
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:53:27
+DESKTOP-AMGP34B,585 bytes,0 bytes,29,cmd.exe,C:\Windows\SysWOW64\cmd.exe,2021-11-10 01:53:45
+DESKTOP-AMGP34B,0 bytes,0 bytes,29,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-10 01:53:45
+DESKTOP-AMGP34B,1.28 GB,975.64 MB,29,cscript.exe,C:\Windows\SysWOW64\cscript.exe,2021-11-10 01:53:45
+DESKTOP-AMGP34B,696.32 KB,139.26 KB,29,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 01:54:25
+DESKTOP-AMGP34B,2.61 MB,0 bytes,28,csrss.exe,C:\Windows\System32\csrss.exe,2021-11-10 22:33:37
+DESKTOP-AMGP34B,898.82 KB,233.29 KB,28,winlogon.exe,C:\Windows\System32\winlogon.exe,2021-11-10 22:33:37
+DESKTOP-AMGP34B,569 bytes,0 bytes,28,fontdrvhost.exe,C:\Windows\System32\fontdrvhost.exe,2021-11-10 22:33:37
+DESKTOP-AMGP34B,71.66 KB,0 bytes,28,dwm.exe,C:\Windows\System32\dwm.exe,2021-11-10 22:33:37
+DESKTOP-AMGP34B,39.71 MB,16 bytes,28,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.0.3752.1000.105\Bin\ccSvcHst.exe,2021-11-10 22:33:38
+DESKTOP-AMGP34B,668.67 KB,0 bytes,28,sihost.exe,C:\Windows\System32\sihost.exe,2021-11-10 22:33:39
+DESKTOP-AMGP34B,3.41 MB,8.45 MB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 22:33:39
+DESKTOP-AMGP34B,3.45 MB,91.15 MB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 22:33:39
+DESKTOP-AMGP34B,2.06 MB,124.61 MB,28,taskhostw.exe,C:\Windows\System32\taskhostw.exe,2021-11-10 22:33:39
+DESKTOP-AMGP34B,16.67 KB,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 22:33:39
+DESKTOP-AMGP34B,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 22:33:40
+DESKTOP-AMGP34B,0 bytes,0 bytes,28,ctfmon.exe,C:\Windows\System32\ctfmon.exe,2021-11-10 22:33:40
+DESKTOP-AMGP34B,174.62 MB,4.67 MB,28,explorer.exe,C:\Windows\explorer.exe,2021-11-10 22:33:41
+DESKTOP-AMGP34B,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 22:33:45
+DESKTOP-AMGP34B,44.15 KB,0 bytes,28,ApplicationFrameHost.exe,C:\Windows\System32\ApplicationFrameHost.exe,2021-11-10 22:33:47
+DESKTOP-AMGP34B,1.73 MB,624.08 KB,28,Microsoft.Notes.exe,C:\Program Files\WindowsApps\Microsoft.MicrosoftStickyNotes_4.1.6.0_x64__8wekyb3d8bbwe\Microsoft.Notes.exe,2021-11-10 22:33:47
+DESKTOP-AMGP34B,9.73 KB,4.64 KB,28,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 22:33:48
+DESKTOP-AMGP34B,4.32 MB,3.54 MB,28,StartMenuExperienceHost.exe,C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe,2021-11-10 22:33:48
+DESKTOP-AMGP34B,1.41 MB,160 bytes,28,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 22:33:48
+DESKTOP-AMGP34B,598.54 MB,260.09 MB,28,SearchApp.exe,C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe,2021-11-10 22:33:48
+DESKTOP-AMGP34B,450.8 MB,132.08 KB,28,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 22:33:49
+DESKTOP-AMGP34B,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 22:33:49
+DESKTOP-AMGP34B,25.62 KB,0 bytes,28,TextInputHost.exe,C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInputHost.exe,2021-11-10 22:33:51
+DESKTOP-AMGP34B,4.41 MB,897.02 KB,28,dllhost.exe,C:\Windows\System32\dllhost.exe,2021-11-10 22:33:52
+DESKTOP-AMGP34B,208.97 MB,57.28 KB,28,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 22:33:53
+DESKTOP-AMGP34B,569 bytes,0 bytes,28,SecurityHealthSystray.exe,C:\Windows\System32\SecurityHealthSystray.exe,2021-11-10 22:34:00
+DESKTOP-AMGP34B,609 bytes,4.1 KB,28,SecurityHealthService.exe,C:\Windows\System32\SecurityHealthService.exe,2021-11-10 22:34:00
+DESKTOP-AMGP34B,0 bytes,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 22:34:01
+DESKTOP-AMGP34B,2.37 KB,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 22:34:13
+DESKTOP-AMGP34B,512 bytes,0 bytes,28,ShellExperienceHost.exe,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe,2021-11-10 22:34:43
+DESKTOP-AMGP34B,270.99 KB,320 bytes,28,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-10 22:34:43
+DESKTOP-AMGP34B,13.94 MB,385.03 KB,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 22:34:55
+DESKTOP-AMGP34B,31.81 MB,0 bytes,28,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-10 22:38:40
+DESKTOP-AMGP34B,4.36 KB,0 bytes,24,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-14 18:29:34
+DESKTOP-AMGP34B,0 bytes,0 bytes,23,WmiPrvSE.exe,C:\Windows\SysWOW64\wbem\WmiPrvSE.exe,2021-11-15 07:00:24
+DESKTOP-AMGP34B,20.76 MB,3.88 GB,23,orbit.exe,C:\Program Files\Orbit\bin\orbit\orbit.exe,2021-11-15 17:12:08
+DESKTOP-AMGP34B,144 bytes,3 bytes,23,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-11-15 17:12:09
+DESKTOP-AMGP34B,0 bytes,0 bytes,23,conhost.exe,C:\Windows\System32\conhost.exe,2021-11-15 17:12:09
+DESKTOP-AMGP34B,1.36 GB,31.88 MB,23,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-11-15 17:12:09
+DESKTOP-AMGP34B,0 bytes,0 bytes,23,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-16 01:53:41
+DESKTOP-AMGP34B,927.18 MB,407.57 MB,23,Microsoft.Photos.exe,C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2021.21090.10008.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe,2021-11-16 02:01:23
+DESKTOP-AMGP34B,6.99 MB,104.4 KB,23,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-16 02:01:23
+DESKTOP-AMGP34B,38.18 KB,0 bytes,19,YourPhone.exe,C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21102.134.0_x64__8wekyb3d8bbwe\YourPhone.exe,2021-11-19 14:52:11
+DESKTOP-AMGP34B,0 bytes,0 bytes,19,RuntimeBroker.exe,C:\Windows\System32\RuntimeBroker.exe,2021-11-19 22:52:14
+DESKTOP-AMGP34B,17.72 KB,0 bytes,16,SavUI.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\14.0.3752.1000.105\Bin\SavUI.exe,2021-11-22 07:00:02
+DESKTOP-AMGP34B,0 bytes,0 bytes,16,svchost.exe,C:\Windows\System32\svchost.exe,2021-11-22 07:16:42
+DESKTOP-AMGP34B,33.73 MB,299.07 KB,14,NanoNTDevelopment.exe,C:\Program Files (x86)\SanDisk\NanoNTDevelopment\NanoNTDevelopment 12.9\Bin\NanoNTDevelopment.exe,2021-11-24 17:46:26
+DESKTOP-AMGP34B,14.3 KB,6.62 KB,14,PYSCRI~1.EXE,C:\PROGRA~2\SanDisk\NANONT~1\NANONT~1.9\Bin\PYSCRI~1.EXE,2021-11-24 17:46:29
+DESKTOP-AMGP34B,517.26 KB,192.48 KB,13,taskhostw.exe,C:\Windows\System32\taskhostw.exe,2021-11-26 00:41:43
+DESKTOP-AMGP34B,2.59 GB,65.2 MB,9,MoUsoCoreWorker.exe,C:\Windows\System32\MoUsoCoreWorker.exe,2021-11-29 13:44:14
+DESKTOP-AMGP34B,1.38 KB,0 bytes,6,svchost.exe,C:\Windows\System32\svchost.exe,2021-12-02 12:05:39
+DESKTOP-AMGP34B,248.72 MB,28.22 KB,6,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-12-02 20:53:39
+DESKTOP-AMGP34B,137.57 MB,90.69 MB,4,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-12-04 08:11:07
+DESKTOP-AMGP34B,7.42 KB,72 bytes,4,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-12-04 08:11:07
+DESKTOP-AMGP34B,21.58 MB,46.28 MB,4,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-12-04 08:11:07
+DESKTOP-AMGP34B,23.29 MB,42.04 MB,4,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-12-04 08:11:07
+DESKTOP-AMGP34B,20.83 MB,38.66 MB,4,msedge.exe,C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe,2021-12-04 08:11:07
+DESKTOP-AMGP34B,17.27 MB,43.64 MB,3,svchost.exe,C:\Windows\System32\svchost.exe,2021-12-05 17:54:19
+DESKTOP-AMGP34B,10.35 KB,0 bytes,2,Bubbles.scr,C:\Windows\System32\Bubbles.scr,2021-12-06 22:24:32
+DESKTOP-AMGP34B,6.51 MB,5.95 MB,2,OneDrive.exe,C:\Users\sandisk\AppData\Local\Microsoft\OneDrive\OneDrive.exe,2021-12-06 22:34:34
+DESKTOP-AMGP34B,11.13 MB,339 bytes,0,TaniumClient.exe,C:\Program Files (x86)\Tanium\Tanium Client\TaniumClient.exe,2021-12-08 15:07:08
+DESKTOP-AMGP34B,0 bytes,0 bytes,0,conhost.exe,C:\Windows\System32\conhost.exe,2021-12-08 15:07:08
+DESKTOP-AMGP34B,2.46 GB,42.41 MB,0,TaniumClient.exe,C:\Program Files (x86)\Tanium\Tanium Client\TaniumClient.exe,2021-12-08 16:00:06
+DESKTOP-AMGP34B,0 bytes,0 bytes,0,conhost.exe,C:\Windows\System32\conhost.exe,2021-12-08 16:00:06
+DESKTOP-AMGP34B,26.52 MB,14.73 KB,0,TaniumClient.exe,C:\Program Files (x86)\Tanium\Tanium Client\TaniumClient.exe,2021-12-08 17:45:58
+DESKTOP-AMGP34B,569 bytes,1.28 KB,0,TrustedInstaller.exe,C:\Windows\servicing\TrustedInstaller.exe,2021-12-08 17:51:49
+DESKTOP-AMGP34B,6.3 MB,193.13 KB,0,TiWorker.exe,C:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.1310_none_7e15ec207c87d405\TiWorker.exe,2021-12-08 17:51:50
+MiniGnarly07-PC,-1 bytes,-1 bytes,0,[System Process],,1969-12-31 23:59:59
+MiniGnarly07-PC,8.24 GB,4.79 GB,49,System,,2021-10-20 17:29:29
+MiniGnarly07-PC,82.03 KB,20 bytes,49,smss.exe,C:\Windows\System32\smss.exe,2021-10-20 17:29:29
+MiniGnarly07-PC,13.84 MB,0 bytes,49,csrss.exe,C:\Windows\System32\csrss.exe,2021-10-20 17:29:32
+MiniGnarly07-PC,7.17 KB,0 bytes,49,wininit.exe,C:\Windows\System32\wininit.exe,2021-10-20 17:29:33
+MiniGnarly07-PC,6.96 GB,7.11 MB,49,services.exe,C:\Windows\System32\services.exe,2021-10-20 17:29:33
+MiniGnarly07-PC,62.7 MB,130.33 MB,49,lsass.exe,C:\Windows\System32\lsass.exe,2021-10-20 17:29:33
+MiniGnarly07-PC,0 bytes,0 bytes,49,lsm.exe,C:\Windows\System32\lsm.exe,2021-10-20 17:29:33
+MiniGnarly07-PC,14.45 GB,0 bytes,49,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 17:29:36
+MiniGnarly07-PC,27.7 KB,0 bytes,49,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 17:29:36
+MiniGnarly07-PC,9.43 GB,113.83 MB,49,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 17:29:37
+MiniGnarly07-PC,1.32 GB,2.71 GB,49,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 17:29:37
+MiniGnarly07-PC,106.84 KB,1.73 KB,49,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 17:29:37
+MiniGnarly07-PC,31.36 GB,9.99 GB,49,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 17:29:37
+MiniGnarly07-PC,357.69 MB,245.18 MB,49,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 17:29:38
+MiniGnarly07-PC,560.95 KB,320 bytes,49,spoolsv.exe,C:\Windows\System32\spoolsv.exe,2021-10-20 17:29:38
+MiniGnarly07-PC,109.83 MB,260.78 MB,49,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 17:29:38
+MiniGnarly07-PC,1.77 GB,62.65 KB,49,CSFalconService.exe,C:\Program Files\CrowdStrike\CSFalconService.exe,2021-10-20 17:29:41
+MiniGnarly07-PC,208.79 KB,514 bytes,49,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 17:29:42
+MiniGnarly07-PC,241.42 KB,0 bytes,49,IPROSetMonitor.exe,C:\Windows\System32\IPROSetMonitor.exe,2021-10-20 17:29:42
+MiniGnarly07-PC,135.41 MB,8.24 GB,49,orbit.exe,C:\Program Files\Orbit\bin\orbit\orbit.exe,2021-10-20 17:29:43
+MiniGnarly07-PC,22.15 MB,10.34 MB,49,CSFalconContainer.exe,C:\Program Files\CrowdStrike\CSFalconContainer.exe,2021-10-20 17:29:43
+MiniGnarly07-PC,22.1 MB,415.58 KB,49,CSFalconContainer.exe,C:\Program Files\CrowdStrike\CSFalconContainer.exe,2021-10-20 17:29:46
+MiniGnarly07-PC,124.25 MB,57.35 KB,49,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-10-20 17:29:56
+MiniGnarly07-PC,356.19 KB,0 bytes,49,conhost.exe,C:\Windows\System32\conhost.exe,2021-10-20 17:29:57
+MiniGnarly07-PC,46.97 GB,12.34 GB,49,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\12.1.7061.6600.105\Bin\ccSvcHst.exe,2021-10-20 17:29:58
+MiniGnarly07-PC,3.01 GB,106.59 MB,49,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-10-20 17:29:58
+MiniGnarly07-PC,30.72 MB,19.19 MB,49,miragent.exe,C:\Program Files (x86)\MANDIANT\MANDIANT Intelligent Response Agent\miragent.exe,2021-10-20 17:29:59
+MiniGnarly07-PC,258.49 KB,0 bytes,49,unsecapp.exe,C:\Windows\System32\wbem\unsecapp.exe,2021-10-20 17:30:17
+MiniGnarly07-PC,803.05 MB,241.85 MB,49,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-10-20 17:30:18
+MiniGnarly07-PC,337.03 MB,12.38 MB,49,SearchIndexer.exe,C:\Windows\System32\SearchIndexer.exe,2021-10-20 17:30:20
+MiniGnarly07-PC,49.84 KB,0 bytes,49,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 17:30:41
+MiniGnarly07-PC,330.11 KB,0 bytes,49,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-20 17:31:29
+MiniGnarly07-PC,555.71 KB,0 bytes,49,csrss.exe,C:\Windows\System32\csrss.exe,2021-10-20 17:32:18
+MiniGnarly07-PC,967.87 KB,800 bytes,49,winlogon.exe,C:\Windows\System32\winlogon.exe,2021-10-20 17:32:18
+MiniGnarly07-PC,1.21 GB,1.29 GB,49,CcmExec.exe,C:\Windows\CCM\CcmExec.exe,2021-10-20 17:32:20
+MiniGnarly07-PC,2.6 MB,601.44 KB,49,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-10-20 17:32:21
+MiniGnarly07-PC,891.29 KB,1.5 KB,49,CmRcService.exe,C:\Windows\CCM\RemCtrl\CmRcService.exe,2021-10-20 17:32:22
+MiniGnarly07-PC,1.95 GB,0 bytes,49,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-10-20 17:32:24
+MiniGnarly07-PC,525.86 KB,0 bytes,49,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-10-20 17:32:42
+MiniGnarly07-PC,109.98 MB,11.3 MB,49,TrustedInstaller.exe,C:\Windows\servicing\TrustedInstaller.exe,2021-10-20 23:21:04
+MiniGnarly07-PC,66.81 MB,12.37 MB,48,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-10-21 21:45:01
+MiniGnarly07-PC,345.35 KB,1.32 KB,2,taskhost.exe,C:\Windows\System32\taskhost.exe,2021-12-06 17:01:13
+MiniGnarly07-PC,625.05 KB,0 bytes,2,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\12.1.7061.6600.105\Bin\ccSvcHst.exe,2021-12-06 17:01:13
+MiniGnarly07-PC,138.98 KB,0 bytes,2,dwm.exe,C:\Windows\System32\dwm.exe,2021-12-06 17:01:13
+MiniGnarly07-PC,816.47 KB,460.99 KB,2,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-12-06 17:01:13
+MiniGnarly07-PC,11.64 MB,752 bytes,2,explorer.exe,C:\Windows\explorer.exe,2021-12-06 17:01:13
+MiniGnarly07-PC,428.57 KB,0 bytes,2,StikyNot.exe,C:\Windows\System32\StikyNot.exe,2021-12-06 17:01:14
+MiniGnarly07-PC,335.7 KB,0 bytes,2,concentr.exe,C:\Program Files (x86)\Citrix\ICA Client\concentr.exe,2021-12-06 17:01:15
+MiniGnarly07-PC,743.77 KB,0 bytes,2,wfcrun32.exe,C:\Program Files (x86)\Citrix\ICA Client\wfcrun32.exe,2021-12-06 17:01:15
+MiniGnarly07-PC,1.79 MB,1.6 MB,2,wmpnetwk.exe,C:\Program Files\Windows Media Player\wmpnetwk.exe,2021-12-06 17:01:21
+MiniGnarly07-PC,896.24 KB,2.36 MB,2,SCNotification.exe,C:\Windows\CCM\SCNotification.exe,2021-12-06 17:01:24
+MiniGnarly07-PC,430.33 KB,160 bytes,2,LogonUI.exe,C:\Windows\System32\LogonUI.exe,2021-12-06 17:02:10
+MiniGnarly07-PC,284.11 KB,0 bytes,2,taskhost.exe,C:\Windows\System32\taskhost.exe,2021-12-06 17:02:50
+MiniGnarly07-PC,731.01 KB,470 bytes,0,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-12-08 17:52:19
+MiniGnarly11-PC,-1 bytes,-1 bytes,0,[System Process],,1969-12-31 23:59:59
+MiniGnarly11-PC,1.82 GB,11.3 GB,55,System,,2021-10-14 18:32:02
+MiniGnarly11-PC,49.97 KB,20 bytes,55,smss.exe,C:\Windows\System32\smss.exe,2021-10-14 18:32:02
+MiniGnarly11-PC,1.01 MB,0 bytes,55,csrss.exe,C:\Windows\System32\csrss.exe,2021-10-14 18:32:05
+MiniGnarly11-PC,7.17 KB,0 bytes,55,wininit.exe,C:\Windows\System32\wininit.exe,2021-10-14 18:32:06
+MiniGnarly11-PC,4.64 GB,7.19 MB,55,services.exe,C:\Windows\System32\services.exe,2021-10-14 18:32:06
+MiniGnarly11-PC,66.03 MB,149.01 MB,55,lsass.exe,C:\Windows\System32\lsass.exe,2021-10-14 18:32:06
+MiniGnarly11-PC,343.04 KB,0 bytes,55,lsm.exe,C:\Windows\System32\lsm.exe,2021-10-14 18:32:06
+MiniGnarly11-PC,5.45 GB,0 bytes,55,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-14 18:32:07
+MiniGnarly11-PC,27.14 KB,0 bytes,55,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-14 18:32:07
+MiniGnarly11-PC,5.18 GB,191.12 MB,55,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-14 18:32:07
+MiniGnarly11-PC,1.01 GB,486.65 MB,55,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-14 18:32:07
+MiniGnarly11-PC,26.92 GB,10.44 GB,55,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-14 18:32:07
+MiniGnarly11-PC,768.78 KB,923.71 KB,55,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-14 18:32:08
+MiniGnarly11-PC,71.2 MB,39.54 MB,55,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-14 18:32:08
+MiniGnarly11-PC,560.95 KB,320 bytes,55,spoolsv.exe,C:\Windows\System32\spoolsv.exe,2021-10-14 18:32:08
+MiniGnarly11-PC,46.41 MB,10.4 MB,55,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-14 18:32:09
+MiniGnarly11-PC,99.61 MB,504 bytes,55,CSFalconService.exe,C:\Program Files\CrowdStrike\CSFalconService.exe,2021-10-14 18:32:10
+MiniGnarly11-PC,19.71 MB,102.26 KB,55,CSFalconContainer.exe,C:\Program Files\CrowdStrike\CSFalconContainer.exe,2021-10-14 18:32:11
+MiniGnarly11-PC,241.42 KB,0 bytes,55,IPROSetMonitor.exe,C:\Windows\System32\IPROSetMonitor.exe,2021-10-14 18:32:11
+MiniGnarly11-PC,135.55 MB,9.16 GB,55,orbit.exe,C:\Program Files\Orbit\bin\orbit\orbit.exe,2021-10-14 18:32:12
+MiniGnarly11-PC,124.25 MB,57.35 KB,55,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-10-14 18:32:15
+MiniGnarly11-PC,358.57 KB,0 bytes,55,conhost.exe,C:\Windows\System32\conhost.exe,2021-10-14 18:32:16
+MiniGnarly11-PC,52.08 GB,15.61 GB,55,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\12.1.7061.6600.105\Bin\ccSvcHst.exe,2021-10-14 18:32:20
+MiniGnarly11-PC,3.38 GB,122.09 MB,55,osqueryd.exe,C:\Program Files\Orbit\bin\osqueryd\windows\stable\osqueryd.exe,2021-10-14 18:32:21
+MiniGnarly11-PC,32.96 MB,21.51 MB,55,miragent.exe,C:\Program Files (x86)\MANDIANT\MANDIANT Intelligent Response Agent\miragent.exe,2021-10-14 18:32:21
+MiniGnarly11-PC,47.63 KB,0 bytes,55,unsecapp.exe,C:\Windows\System32\wbem\unsecapp.exe,2021-10-14 18:32:25
+MiniGnarly11-PC,695.75 MB,264.13 MB,55,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-10-14 18:32:25
+MiniGnarly11-PC,27.7 KB,0 bytes,55,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-14 18:32:25
+MiniGnarly11-PC,58.8 MB,1.6 MB,55,SearchIndexer.exe,C:\Windows\System32\SearchIndexer.exe,2021-10-14 18:32:36
+MiniGnarly11-PC,478.23 KB,15.54 KB,55,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-10-14 18:34:25
+MiniGnarly11-PC,294.97 KB,0 bytes,55,svchost.exe,C:\Windows\System32\svchost.exe,2021-10-14 18:34:26
+MiniGnarly11-PC,470.14 KB,0 bytes,55,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-10-14 18:34:41
+MiniGnarly11-PC,104.68 KB,0 bytes,54,csrss.exe,C:\Windows\System32\csrss.exe,2021-10-15 18:49:47
+MiniGnarly11-PC,579.09 KB,160 bytes,54,winlogon.exe,C:\Windows\System32\winlogon.exe,2021-10-15 18:49:47
+MiniGnarly11-PC,236.15 KB,320 bytes,54,LogonUI.exe,C:\Windows\System32\LogonUI.exe,2021-10-15 18:49:49
+MiniGnarly11-PC,709.53 KB,0 bytes,45,csrss.exe,C:\Windows\System32\csrss.exe,2021-10-24 23:37:33
+MiniGnarly11-PC,767.14 KB,320 bytes,45,winlogon.exe,C:\Windows\System32\winlogon.exe,2021-10-24 23:37:33
+MiniGnarly11-PC,417.38 KB,75.95 KB,45,taskhost.exe,C:\Windows\System32\taskhost.exe,2021-10-24 23:37:34
+MiniGnarly11-PC,657.88 KB,0 bytes,45,ccSvcHst.exe,C:\Program Files (x86)\Symantec\Symantec Endpoint Protection\12.1.7061.6600.105\Bin\ccSvcHst.exe,2021-10-24 23:37:34
+MiniGnarly11-PC,3.09 MB,1.11 KB,45,rdpclip.exe,C:\Windows\System32\rdpclip.exe,2021-10-24 23:37:34
+MiniGnarly11-PC,120.89 KB,0 bytes,45,dwm.exe,C:\Windows\System32\dwm.exe,2021-10-24 23:37:34
+MiniGnarly11-PC,234.47 MB,2.85 MB,45,explorer.exe,C:\Windows\explorer.exe,2021-10-24 23:37:34
+MiniGnarly11-PC,2.94 MB,4.91 MB,45,WmiPrvSE.exe,C:\Windows\System32\wbem\WmiPrvSE.exe,2021-10-24 23:37:35
+MiniGnarly11-PC,305.15 KB,0 bytes,45,concentr.exe,C:\Program Files (x86)\Citrix\ICA Client\concentr.exe,2021-10-24 23:37:36
+MiniGnarly11-PC,788.04 KB,0 bytes,45,wfcrun32.exe,C:\Program Files (x86)\Citrix\ICA Client\wfcrun32.exe,2021-10-24 23:37:36
+MiniGnarly11-PC,26.99 MB,0 bytes,33,BICS6-D4-4P.exe,C:\NanoNT_BICS6-D4-4P\Bin\BICS6-D4-4P.exe,2021-11-05 17:50:06
+MiniGnarly11-PC,3.88 MB,12.25 KB,33,Script.exe,C:\NanoNT_BICS6-D4-4P\Bin\Script.exe,2021-11-05 17:50:08
+MiniGnarly11-PC,411.18 MB,293.78 MB,32,CcmExec.exe,C:\Windows\CCM\CcmExec.exe,2021-11-06 08:21:03
+MiniGnarly11-PC,1.1 MB,1.19 MB,32,SCNotification.exe,C:\Windows\CCM\SCNotification.exe,2021-11-06 08:22:35
